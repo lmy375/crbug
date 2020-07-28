@@ -38,14 +38,19 @@ class Log:
 log = Log()
 
 def httpGet(url):
-    return urlopen(url).read()
+    try:
+        return urlopen(url).read()
+    except Exception as e:
+        print("[!] Http GET Error: %s" % e)
+        return None
+
 
 def httpPost(url, data=None, headers={}):
     try:
         r = Request(url, data, headers)
         return urlopen(r).read()
-    except HTTPError as e:
-        # print(e)
+    except Exception as e:
+        print("[!] Http POST Error: %s" % e)
         return None
 
 TOKEN = re.findall("'token': '(.*?)'", httpGet(CRBUG_URL).decode())[0]
@@ -418,6 +423,8 @@ if __name__ == '__main__':
     
     db = DataBase()
     db.update()
+    db.save()
+    db.saveToMD()
     db.updateIssues()
     db.save()
     db.saveToMD()
