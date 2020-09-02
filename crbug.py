@@ -5,6 +5,10 @@ import json
 import pickle
 import os
 import sys
+import socket
+
+# Set timeout to 10s.
+socket.setdefaulttimeout(10)
 
 from urllib.request import urlopen, Request, HTTPError
 
