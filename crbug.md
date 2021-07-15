@@ -1,129 +1,848 @@
+# None (Thursday, June 24, 2021) [0/0 bugs](https://chromereleases.googleblog.com/2021/06/stable-channel-update-for-desktop_24.html)
+
+# None (Thursday, June 17, 2021) [4/4 bugs](https://chromereleases.googleblog.com/2021/06/stable-channel-update-for-desktop_17.html)
+- [$TBD][[1219857](https://crbug.com/1219857)] High CVE-2021-30554: Use after free in WebGL. Reported by anonymous on 2021-06-15
+	- [Issue 1219857 (Permission denied.)](https://crbug.com/1219857)
+- [$10000][[1215029](https://crbug.com/1215029)] High CVE-2021-30555: Use after free in Sharing. Reported by David Erceg on 2021-06-01
+	- [Issue 1215029 (Permission denied.)](https://crbug.com/1215029)
+- [$7500][[1212599](https://crbug.com/1212599)] High CVE-2021-30556: Use after free in WebAudio. Reported by Yangkang (@dnpushme) of 360 ATA on 2021-05-24
+	- [Issue 1212599 (Permission denied.)](https://crbug.com/1212599)
+- [$10000][[1202102](https://crbug.com/1202102)] High CVE-2021-30557: Use after free in TabGroups. Reported by David Erceg on 2021-04-23
+	- [Issue 1202102 (Permission denied.)](https://crbug.com/1202102)
+
+# None (Monday, June 14, 2021) [0/0 bugs](https://chromereleases.googleblog.com/2021/06/stable-channel-update-for-desktop_14.html)
+
+# None (Wednesday, June 9, 2021) [14/14 bugs](https://chromereleases.googleblog.com/2021/06/stable-channel-update-for-desktop.html)
+- [$25000][[1212618](https://crbug.com/1212618)] Critical CVE-2021-30544: Use after free in BFCache. Reported by Rong Jian and Guang Gong of 360 Alpha Lab on 2021-05-24
+	- [Issue 1212618 (Permission denied.)](https://crbug.com/1212618)
+- [$20000][[1201031](https://crbug.com/1201031)] High CVE-2021-30545: Use after free in Extensions. Reported by kkwon with everpall and kkomdal on 2021-04-21
+	- [Issue 1201031 (Permission denied.)](https://crbug.com/1201031)
+- [$NA][[1206911](https://crbug.com/1206911)] High CVE-2021-30546: Use after free in Autofill. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-05-08
+	- [Issue 1206911 (Permission denied.)](https://crbug.com/1206911)
+- [$TBD][[1210414](https://crbug.com/1210414)] High CVE-2021-30547: Out of bounds write in ANGLE. Reported by Seong-Hwan Park (SeHwa) of SecunologyLab on 2021-05-18
+	- [Issue 1210414 (Permission denied.)](https://crbug.com/1210414)
+- [$TBD][[1210487](https://crbug.com/1210487)] High CVE-2021-30548: Use after free in Loader. Reported by Yangkang(@dnpushme) & Wanglu of Qihoo360 Qex Team on 2021-05-18
+	- [Issue 1210487 (Permission denied.)](https://crbug.com/1210487)
+- [$TBD][[1212498](https://crbug.com/1212498)] High CVE-2021-30549: Use after free in Spell check. Reported by David Erceg on 2021-05-23
+	- [Issue 1212498 (Permission denied.)](https://crbug.com/1212498)
+- [$TBD][[1212500](https://crbug.com/1212500)] High CVE-2021-30550: Use after free in Accessibility. Reported by David Erceg on 2021-05-23
+	- [Issue 1212500 (Permission denied.)](https://crbug.com/1212500)
+- [$NA][[1216437](https://crbug.com/1216437)] High CVE-2021-30551: Type Confusion in V8. Reported by Clement Lecigne of Google's Threat Analysis Group and Sergei Glazunov of Google Project Zero on 2021-06-04
+	- [Issue 1216437 (Permission denied.)](https://crbug.com/1216437)
+- [$TBD][[1200679](https://crbug.com/1200679)] Medium CVE-2021-30552: Use after free in Extensions. Reported by David Erceg on 2021-04-20
+	- [Issue 1200679 (Permission denied.)](https://crbug.com/1200679)
+- [$TBD][[1209769](https://crbug.com/1209769)] Medium CVE-2021-30553: Use after free in Network service. Reported by Anonymous on 2021-05-17
+	- [Issue 1209769 (Permission denied.)](https://crbug.com/1209769)
+- [[1218029](https://crbug.com/1218029)] internal.
+	- [Issue 1211215 (Permission denied.)](https://crbug.com/1211215)
+	- [Issue 1209558 (Permission denied.)](https://crbug.com/1209558)
+	- [Issue 1209444 (Permission denied.)](https://crbug.com/1209444)
+	- [Issue 1194689 (Permission denied.)](https://crbug.com/1194689)
+
+
+# 91.0.4472.77 (Tuesday, May 25, 2021) [32/34 bugs](https://chromereleases.googleblog.com/2021/05/stable-channel-update-for-desktop_25.html)
+- [$7500][[1176218](https://crbug.com/1176218)] High CVE-2021-30522: Use after free in WebAudio. Reported by Piotr Bania of Cisco Talos on 2021-02-09
+	- [Issue 1176218 (Permission denied.)](https://crbug.com/1176218)
+- [$7500][[1187797](https://crbug.com/1187797)] High CVE-2021-30523: Use after free in WebRTC. Reported by Tolyan Korniltsev on 2021-03-13
+	- [Issue 1187797 (Permission denied.)](https://crbug.com/1187797)
+- [$TBD][[1197146](https://crbug.com/1197146)] High CVE-2021-30524: Use after free in TabStrip. Reported by David Erceg on 2021-04-08
+	- [Issue 1197146 (Permission denied.)](https://crbug.com/1197146)
+- [$TBD][[1197888](https://crbug.com/1197888)] High CVE-2021-30525: Use after free in TabGroups. Reported by David Erceg on 2021-04-11
+	- [Issue 1197888 (Permission denied.)](https://crbug.com/1197888)
+- [$TBD][[1198717](https://crbug.com/1198717)] High CVE-2021-30526: Out of bounds write in TabStrip. Reported by David Erceg on 2021-04-13
+	- [Issue 1198717 (Permission denied.)](https://crbug.com/1198717)
+- [$TBD][[1199198](https://crbug.com/1199198)] High CVE-2021-30527: Use after free in WebUI. Reported by David Erceg on 2021-04-15
+	- [Issue 1199198 (Permission denied.)](https://crbug.com/1199198)
+- [$NA][[1206329](https://crbug.com/1206329)] High CVE-2021-30528: Use after free in WebAuthentication. Reported by Man Yue Mo of GitHub Security Lab on 2021-05-06
+	- [Issue 1206329 (Permission denied.)](https://crbug.com/1206329)
+- [$7500][[1195278](https://crbug.com/1195278)] Medium CVE-2021-30529: Use after free in Bookmarks. Reported by koocola (@alo_cook) and Nan Wang (@eternalsakura13) of 360 Alpha Lab on 2021-04-02
+	- [Issue 1195278 (Permission denied.)](https://crbug.com/1195278)
+- [$7500][[1201033](https://crbug.com/1201033)] Medium CVE-2021-30530: Out of bounds memory access in WebAudio. Reported by kkwon on 2021-04-21
+	- [Issue 1201033 (Permission denied.)](https://crbug.com/1201033)
+- [$5000][[1115628](https://crbug.com/1115628)] Medium CVE-2021-30531: Insufficient policy enforcement in Content Security Policy. Reported by Philip Papurt on 2020-08-12
+	- [Issue 1115628: Security: Full CSP bypass through blob: URIs (gink...@gmail.com)](https://crbug.com/1115628)
+- [$5000][[1117687](https://crbug.com/1117687)] Medium CVE-2021-30532: Insufficient policy enforcement in Content Security Policy. Reported by Philip Papurt on 2020-08-18
+	- [Issue 1117687: Security: Full CSP bypass through filesystem URIs (gink...@gmail.com)](https://crbug.com/1117687)
+- [$5000][[1145553](https://crbug.com/1145553)] Medium CVE-2021-30533: Insufficient policy enforcement in PopupBlocker. Reported by Eliya Stein on 2020-11-04
+	- [Issue 1145553 (Permission denied.)](https://crbug.com/1145553)
+- [$3000][[1151507](https://crbug.com/1151507)] Medium CVE-2021-30534: Insufficient policy enforcement in iFrameSandbox. Reported by Alesandro Ortiz on 2020-11-20
+	- [Issue 1151507 (Permission denied.)](https://crbug.com/1151507)
+- [$1000][[1194899](https://crbug.com/1194899)] Medium CVE-2021-30535: Double free in ICU. Reported by nocma, leogan, cheneyxu of WeChat Open Platform Security Team on 2021-04-01
+	- [Issue 1194899 (Permission denied.)](https://crbug.com/1194899)
+- [$TBD][[1203607](https://crbug.com/1203607)] Medium CVE-2021-30543: Use after free in Tab Strip. Reported by Khalil Zhani on 2021-04-28
+	- [Issue 1203607 (Permission denied.)](https://crbug.com/1203607)
+- [$NA][[916326](https://crbug.com/916326)] Medium CVE-2021-30558: Insufficient policy enforcement in content security policy. Reported by Jun Kokatsu, Microsoft Browser Vulnerability Research on 2018-12-19
+	- [Issue 916326: CSP bypass via wrong inheritance (jun.k...@microsoft.com)](https://crbug.com/916326)
+- [$15000][[1194358](https://crbug.com/1194358)] Low CVE-2021-30536: Out of bounds read in V8. Reported by Chris Salls (@salls) on 2021-03-31
+	- [Issue 1194358 (Permission denied.)](https://crbug.com/1194358)
+- [$3000][[830101](https://crbug.com/830101)] Low CVE-2021-30537: Insufficient policy enforcement in cookies. Reported by Jun Kokatsu (@shhnjk) on 2018-04-06
+	- [Issue 830101 (Permission denied.)](https://crbug.com/830101)
+- [$3000][[1115045](https://crbug.com/1115045)] Low CVE-2021-30538: Insufficient policy enforcement in content security policy. Reported by Tianze Ding (@D1iv3) of Tencent Security Xuanwu Lab on 2020-08-11
+	- [Issue 1115045: CSP frame-src bypass using: window.open + javascript-url + about:srcdoc + doubly-nested-iframe. (dddl...@gmail.com)](https://crbug.com/1115045)
+- [$1000][[971231](https://crbug.com/971231)] Low CVE-2021-30539: Insufficient policy enforcement in content security policy. Reported by unnamed researcher  on 2019-06-05
+	- [Issue 971231: Chrome Content security Policy bypass (nohac...@gmail.com)](https://crbug.com/971231)
+- [$500][[1184147](https://crbug.com/1184147)] Low CVE-2021-30540: Incorrect security UI in payments. Reported by @retsew0x01 on 2021-03-03
+	- [Issue 1184147: Security: Incorrect Security UI in payment (zyzen...@gmail.com)](https://crbug.com/1184147)
+- [[1213064](https://crbug.com/1213064)] internal.
+	- [Issue 1150558 (Permission denied.)](https://crbug.com/1150558)
+	- [Issue 1206631 (Permission denied.)](https://crbug.com/1206631)
+	- [Issue 1202534 (Permission denied.)](https://crbug.com/1202534)
+	- [Issue 1197786 (Permission denied.)](https://crbug.com/1197786)
+	- [Issue 1194021 (Permission denied.)](https://crbug.com/1194021)
+	- [Issue 1192574: Security: 30x to data URI aren't blocked on iOS (gambard@chromium.org)](https://crbug.com/1192574)
+	- [Issue 1191778 (Permission denied.)](https://crbug.com/1191778)
+	- [Issue 1172694 (Permission denied.)](https://crbug.com/1172694)
+	- [Issue 1194959 (Permission denied.)](https://crbug.com/1194959)
+	- [Issue 1183440 (Permission denied.)](https://crbug.com/1183440)
+	- [Issue 1184294 (Permission denied.)](https://crbug.com/1184294)
+
+
+# None (Monday, May 10, 2021) [20/19 bugs](https://chromereleases.googleblog.com/2021/05/stable-channel-update-for-desktop.html)
+- [$3000][[1180126](https://crbug.com/1180126)] High CVE-2021-30506: Incorrect security UI in Web App Installs. Reported by @retsew0x01 on 2021-02-19
+	- [Issue 1180126 (Permission denied.)](https://crbug.com/1180126)
+- [$NA][[1178202](https://crbug.com/1178202)] High CVE-2021-30507: Inappropriate implementation in Offline. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2021-02-14
+	- [Issue 1178202 (Permission denied.)](https://crbug.com/1178202)
+- [$TBD][[1195340](https://crbug.com/1195340)] High CVE-2021-30508: Heap buffer overflow in Media Feeds. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2021-04-02
+	- [Issue 1195340 (Permission denied.)](https://crbug.com/1195340)
+- [$TBD][[1196309](https://crbug.com/1196309)] High CVE-2021-30509: Out of bounds write in Tab Strip. Reported by David Erceg on 2021-04-06
+	- [Issue 1196309 (Permission denied.)](https://crbug.com/1196309)
+- [$TBD][[1197436](https://crbug.com/1197436)] High CVE-2021-30510: Race in Aura. Reported by Weipeng Jiang (@Krace) from Codesafe Team of Legendsec at Qi'anxin Group on 2021-04-09
+	- [Issue 1197436 (Permission denied.)](https://crbug.com/1197436)
+- [$TBD][[1197875](https://crbug.com/1197875)] High CVE-2021-30511: Out of bounds read in Tab Groups. Reported by David Erceg on 2021-04-10
+	- [Issue 1197875 (Permission denied.)](https://crbug.com/1197875)
+- [$TBD][[1200019](https://crbug.com/1200019)] High CVE-2021-30512: Use after free in Notifications. Reported by ZhanJia Song on 2021-04-17
+	- [Issue 1200019 (Permission denied.)](https://crbug.com/1200019)
+- [$NA][[1200490](https://crbug.com/1200490)] High CVE-2021-30513: Type Confusion in V8. Reported by Man Yue Mo of GitHub Security Lab on 2021-04-19
+	- [Issue 1200490 (Permission denied.)](https://crbug.com/1200490)
+- [$TBD][[1200766](https://crbug.com/1200766)] High CVE-2021-30514: Use after free in Autofill. Reported by koocola (@alo_cook) and Nan Wang (@eternalsakura13) of 360 Alpha Lab on 2021-04-20
+	- [Issue 1200766 (Permission denied.)](https://crbug.com/1200766)
+- [$TBD][[1201073](https://crbug.com/1201073)] High CVE-2021-30515: Use after free in File API. Reported by Rong Jian and Guang Gong of 360 Alpha Lab on 2021-04-21
+	- [Issue 1201073 (Permission denied.)](https://crbug.com/1201073)
+- [$TBD][[1201446](https://crbug.com/1201446)] High CVE-2021-30516: Heap buffer overflow in History. Reported by ZhanJia Song on 2021-04-22
+	- [Issue 1201446 (Permission denied.)](https://crbug.com/1201446)
+- [$TBD][[1203122](https://crbug.com/1203122)] High CVE-2021-30517: Type Confusion in V8. Reported by laural on 2021-04-27
+	- [Issue 1203122 (Permission denied.)](https://crbug.com/1203122)
+- [$NA][[1203590](https://crbug.com/1203590)] High CVE-2021-30518: Heap buffer overflow in Reader Mode. Reported by Jun Kokatsu, Microsoft Browser Vulnerability Research on 2021-04-28
+	- [Issue 1203590 (Permission denied.)](https://crbug.com/1203590)
+- [$15000][[1194058](https://crbug.com/1194058)] Medium CVE-2021-30519: Use after free in Payments. Reported by asnine on 2021-03-30
+	- [Issue 1194058 (Permission denied.)](https://crbug.com/1194058)
+- [$10000][[1193362](https://crbug.com/1193362)] Medium CVE-2021-30520: Use after free in Tab Strip. Reported by Khalil Zhani on 2021-04-03
+	- [Issue 1193362 (Permission denied.)](https://crbug.com/1193362)
+- [[1207457](https://crbug.com/1207457)] internal.
+	- [Issue 1203667 (Permission denied.)](https://crbug.com/1203667)
+	- [Issue 1204071 (Permission denied.)](https://crbug.com/1204071)
+	- [Issue 1201938 (Permission denied.)](https://crbug.com/1201938)
+	- [Issue 1201340 (Permission denied.)](https://crbug.com/1201340)
+	- [Issue 1195573 (Permission denied.)](https://crbug.com/1195573)
+
+
+# None (Monday, April 26, 2021) [10/9 bugs](https://chromereleases.googleblog.com/2021/04/stable-channel-update-for-desktop_26.html)
+- [$15000][[1199345](https://crbug.com/1199345)] High CVE-2021-21227: Insufficient data validation in V8. Reported by Gengming Liu of Singular Security Lab on 2021-04-15
+	- [Issue 1199345 (Permission denied.)](https://crbug.com/1199345)
+- [$NA][[1175058](https://crbug.com/1175058)] High CVE-2021-21232: Use after free in Dev Tools. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-02-05
+	- [Issue 1175058 (Permission denied.)](https://crbug.com/1175058)
+- [$TBD][[1182937](https://crbug.com/1182937)] High CVE-2021-21233: Heap buffer overflow in ANGLE. Reported by Abraruddin Khan and Omair on 2021-02-26
+	- [Issue 1182937 (Permission denied.)](https://crbug.com/1182937)
+- [$5000][[1139156](https://crbug.com/1139156)] Medium CVE-2021-21228: Insufficient policy enforcement in extensions. Reported by Rob Wu on 2020-10-16
+	- [Issue 1139156 (Permission denied.)](https://crbug.com/1139156)
+- [$TBD][[1198165](https://crbug.com/1198165)] Medium CVE-2021-21229: Incorrect security UI in downloads. Reported by Mohit Raj (shadow2639) on 2021-04-12
+	- [Issue 1198165 (Permission denied.)](https://crbug.com/1198165)
+- [$TBD][[1198705](https://crbug.com/1198705)] Medium CVE-2021-21230: Type Confusion in V8. Reported by Manfred Paul on 2021-04-13
+	- [Issue 1198705 (Permission denied.)](https://crbug.com/1198705)
+- [$NA][[1198696](https://crbug.com/1198696)] Low CVE-2021-21231: Insufficient data validation in V8. Reported by Sergei Glazunov of Google Project Zero on 2021-04-13
+	- [Issue 1198696 (Permission denied.)](https://crbug.com/1198696)
+- [[1202729](https://crbug.com/1202729)] internal.
+	- [Issue 1199402 (Permission denied.)](https://crbug.com/1199402)
+	- [Issue 1198309 (Permission denied.)](https://crbug.com/1198309)
+	- [Issue 1188854 (Permission denied.)](https://crbug.com/1188854)
+
+
+# None (Tuesday, April 20, 2021) [7/7 bugs](https://chromereleases.googleblog.com/2021/04/stable-channel-update-for-desktop_20.html)
+- [$TBD][[1194046](https://crbug.com/1194046)] High CVE-2021-21222: Heap buffer overflow in V8. Reported by Guang Gong of Alpha Lab, Qihoo 360 on 2021-03-30
+	- [Issue 1194046 (Permission denied.)](https://crbug.com/1194046)
+- [$TBD][[1195308](https://crbug.com/1195308)] High CVE-2021-21223: Integer overflow in Mojo. Reported by Guang Gong of Alpha Lab, Qihoo 360 on 2021-04-02
+	- [Issue 1195308 (Permission denied.)](https://crbug.com/1195308)
+- [$TBD][[1195777](https://crbug.com/1195777)] High CVE-2021-21224: Type Confusion in V8. Reported by Jose Martinez (tr0y4) from VerSprite Inc. on 2021-04-05
+	- [Issue 1195777 (Permission denied.)](https://crbug.com/1195777)
+- [$22000 + $22000][[1195977](https://crbug.com/1195977)] High CVE-2021-21225: Out of bounds memory access in V8. Reported by Brendon Tiszka (@btiszka) supporting the EFF on 2021-04-05
+	- [Issue 1195977 (Permission denied.)](https://crbug.com/1195977)
+- [$27000 + $27000][[1197904](https://crbug.com/1197904)] High CVE-2021-21226: Use after free in navigation. Reported by Brendon Tiszka (@btiszka) supporting the EFF on 2021-04-11
+	- [Issue 1197904 (Permission denied.)](https://crbug.com/1197904)
+- [[1200824](https://crbug.com/1200824)] internal.
+	- [Issue 1192552 (Permission denied.)](https://crbug.com/1192552)
+	- [Issue 1155297 (Permission denied.)](https://crbug.com/1155297)
+
+
+# 90.0.4430.72 (Wednesday, April 14, 2021) [37/37 bugs](https://chromereleases.googleblog.com/2021/04/stable-channel-update-for-desktop_14.html)
+- [$20000][[1025683](https://crbug.com/1025683)] High CVE-2021-21201: Use after free in permissions. Reported by Gengming Liu and Jianyu Chen when working at Tencent KeenLab on 2019-11-18
+	- [Issue 1025683 (Permission denied.)](https://crbug.com/1025683)
+- [$10000][[1188889](https://crbug.com/1188889)] High CVE-2021-21202: Use after free in extensions. Reported by David Erceg on 2021-03-16
+	- [Issue 1188889 (Permission denied.)](https://crbug.com/1188889)
+- [$5000][[1192054](https://crbug.com/1192054)] High CVE-2021-21203: Use after free in Blink. Reported by asnine on 2021-03-24
+	- [Issue 1192054: Security:  heap-use-after-free in blink::InvalidatableInterpolation::MaybeConvertPairwise (0xasn...@gmail.com)](https://crbug.com/1192054)
+- [$1000][[1189926](https://crbug.com/1189926)] High CVE-2021-21204: Use after free in Blink. Reported by Chelse Tsai-Simek, Jeanette Ulloa, and Emily Voigtlander of Seesaw on 2021-03-19
+	- [Issue 1189926: Aww snap crash when editing canvas text (che...@seesaw.me)](https://crbug.com/1189926)
+- [$TBD][[1165654](https://crbug.com/1165654)] High CVE-2021-21205: Insufficient policy enforcement in navigation. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2021-01-12
+	- [Issue 1165654: Security: 30x Redirect On Reload Can Navigate to Unsafe URLs / Cause Spoofing Issues (ahuff...@microsoft.com)](https://crbug.com/1165654)
+- [$TBD][[1195333](https://crbug.com/1195333)] High CVE-2021-21221: Insufficient validation of untrusted input in Mojo. Reported by Guang Gong of Alpha Lab, Qihoo 360 on 2021-04-02
+	- [Issue 1195333 (Permission denied.)](https://crbug.com/1195333)
+- [$5000][[1185732](https://crbug.com/1185732)] Medium CVE-2021-21207: Use after free in IndexedDB. Reported by koocola (@alo_cook) and Nan Wang (@eternalsakura13) of 360 Alpha Lab on 2021-03-08
+	- [Issue 1185732 (Permission denied.)](https://crbug.com/1185732)
+- [$3000][[1039539](https://crbug.com/1039539)] Medium CVE-2021-21208: Insufficient data validation in QR scanner. Reported by Ahmed Elsobky (@0xsobky) on 2020-01-07
+	- [Issue 1039539 (Permission denied.)](https://crbug.com/1039539)
+- [$3000][[1143526](https://crbug.com/1143526)] Medium CVE-2021-21209: Inappropriate implementation in storage. Reported by Tom Van Goethem (@tomvangoethem) on 2020-10-29
+	- [Issue 1143526: Security: leak cross-site response size - countermeasure bypass (tomva...@gmail.com)](https://crbug.com/1143526)
+- [$3000][[1184562](https://crbug.com/1184562)] Medium CVE-2021-21210: Inappropriate implementation in Network. Reported by @bananabr on 2021-03-04
+	- [Issue 1184562: Security: NAT Slipstreaming via RTSP(TCP/554) allows attacker to access local udp ports (vovoh...@gmail.com)](https://crbug.com/1184562)
+- [$2000][[1103119](https://crbug.com/1103119)] Medium CVE-2021-21211: Inappropriate implementation in Navigation. Reported by Akash Labade (m0ns7er) on 2020-07-08
+	- [Issue 1103119 (Permission denied.)](https://crbug.com/1103119)
+- [$500][[1145024](https://crbug.com/1145024)] Medium CVE-2021-21212: Incorrect security UI in Network Config UI. Reported by Hugo Hue and Sze Yiu Chau of the Chinese University of Hong Kong on 2020-11-03
+	- [Issue 1145024: Security&UI: WPA2-Enterprise/EAP WiFi Connection "Default" UI Discrepancy (hugoh...@gmail.com)](https://crbug.com/1145024)
+- [$N/A][[1161806](https://crbug.com/1161806)] Medium CVE-2021-21213: Use after free in WebMIDI. Reported by raven (@raid_akame)  on 2020-12-25
+	- [Issue 1161806 (Permission denied.)](https://crbug.com/1161806)
+- [$TBD][[1170148](https://crbug.com/1170148)] Medium CVE-2021-21214: Use after free in Network API. Reported by Anonymous on 2021-01-24
+	- [Issue 1170148 (Permission denied.)](https://crbug.com/1170148)
+- [$TBD][[1172533](https://crbug.com/1172533)] Medium CVE-2021-21215: Inappropriate implementation in Autofill. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-01-30
+	- [Issue 1172533 (Permission denied.)](https://crbug.com/1172533)
+- [$TBD][[1173297](https://crbug.com/1173297)] Medium CVE-2021-21216: Inappropriate implementation in Autofill. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-02-02
+	- [Issue 1173297 (Permission denied.)](https://crbug.com/1173297)
+- [$500][[1166462](https://crbug.com/1166462)] Low CVE-2021-21217: Uninitialized Use in PDFium. Reported by Zhou Aiting (@zhouat1) of Qihoo 360 Vulcan Team on 2021-01-14
+	- [Issue 1166462: Security: Use of conditionally uninitialised stack variable may leak stack state (zhoua...@gmail.com)](https://crbug.com/1166462)
+- [$500][[1166478](https://crbug.com/1166478)] Low CVE-2021-21218: Uninitialized Use in PDFium. Reported by Zhou Aiting (@zhouat1) of Qihoo 360 Vulcan Team on 2021-01-14
+	- [Issue 1166478: Security: Use of conditionally uninitialised stack variable may leak stack state (zhoua...@gmail.com)](https://crbug.com/1166478)
+- [$500][[1166972](https://crbug.com/1166972)] Low CVE-2021-21219: Uninitialized Use in PDFium. Reported by Zhou Aiting (@zhouat1) of Qihoo 360 Vulcan Team on 2021-01-15
+	- [Issue 1166972: Security: Use of conditionally uninitialised stack variable may leak stack state (zhoua...@gmail.com)](https://crbug.com/1166972)
+- [[1198709](https://crbug.com/1198709)] internal.
+	- [Issue 1194417: Security: PermissionControllerImpl::UnsubscribePermissionStatusChange UAF (engedy@chromium.org)](https://crbug.com/1194417)
+	- [Issue 1193739 (Permission denied.)](https://crbug.com/1193739)
+	- [Issue 1190525 (Permission denied.)](https://crbug.com/1190525)
+	- [Issue 1184441: Racy UAF when handling usrsctp notification on timer thread (deadbeef@chromium.org)](https://crbug.com/1184441)
+	- [Issue 1183276 (Permission denied.)](https://crbug.com/1183276)
+	- [Issue 1178032 (Permission denied.)](https://crbug.com/1178032)
+	- [Issue 1182109: Security: dPWAs can change their icons after installation (est...@chromium.org)](https://crbug.com/1182109)
+	- [Issue 1181276 (Permission denied.)](https://crbug.com/1181276)
+	- [Issue 1179118: Known vulnerability detected in third_party/harfbuzz-ng (serv...@oss-vdb.iam.gserviceaccount.com)](https://crbug.com/1179118)
+	- [Issue 1176728: Security: Does eigen3 need updating? (adetaylor@google.com)](https://crbug.com/1176728)
+	- [Issue 1175522 (Permission denied.)](https://crbug.com/1175522)
+	- [Issue 1175503 (Permission denied.)](https://crbug.com/1175503)
+	- [Issue 1174551: Heap-buffer-overflow in unsigned int v8::internal::StringHasher::HashSequentialString\<char\> (ClusterFuzz)](https://crbug.com/1174551)
+	- [Issue 1166012 (Permission denied.)](https://crbug.com/1166012)
+	- [Issue 1132030 (Permission denied.)](https://crbug.com/1132030)
+	- [Issue 1170826: Third party apps and web pages can switch Chrome tabs (mthiesse@chromium.org)](https://crbug.com/1170826)
+	- [Issue 1167491 (Permission denied.)](https://crbug.com/1167491)
+	- [Issue 1161759: DCHECK failure in 0 == Heap::GetFillToAlign(obj-\>address(), HeapObject::RequiredAlignment(*map)) i (ClusterFuzz)](https://crbug.com/1161759)
+
+
+# None (Tuesday, April 13, 2021) [2/2 bugs](https://chromereleases.googleblog.com/2021/04/stable-channel-update-for-desktop.html)
+- [$TBD][[1196781](https://crbug.com/1196781)] High CVE-2021-21206: Use after free in Blink. Reported by Anonymous on 2021-04-07
+	- [Issue 1196781 (Permission denied.)](https://crbug.com/1196781)
+- [$N/A][[1196683](https://crbug.com/1196683)] High CVE-2021-21220: Insufficient validation of untrusted input in V8 for x86_64. Reported by Bruno Keith (@bkth_) & Niklas Baumstark (@_niklasb) of Dataflow Security (@dfsec_it) via ZDI (ZDI-CAN-13569) on 2021-04-07
+	- [Issue 1196683 (Permission denied.)](https://crbug.com/1196683)
+
+# None (Tuesday, March 30, 2021) [5/8 bugs](https://chromereleases.googleblog.com/2021/03/stable-channel-update-for-desktop_30.html)
+- [$20000][[1181228](https://crbug.com/1181228)] High CVE-2021-21194: Use after free in screen capture. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2021-02-23
+	- [Issue 1181228: Security: UAF in DesktopCapture (leecraso@gmail.com)](https://crbug.com/1181228)
+- [$15000][[1182647](https://crbug.com/1182647)] High CVE-2021-21195: Use after free in V8. Reported by Bohan Liu (@P4nda20371774) and Moon Liang of Tencent Security Xuanwu Lab on 2021-02-26
+	- [Issue 1182647: Security: Use after free in V8 (p4nda...@gmail.com)](https://crbug.com/1182647)
+- [$10000][[1175992](https://crbug.com/1175992)] High CVE-2021-21196: Heap buffer overflow in TabStrip. Reported by Khalil Zhani on 2021-02-08
+	- [Issue 1175992: Security: Heap-buffer-overflow in TabStripModel::IsTabPinned (chrom...@gmail.com)](https://crbug.com/1175992)
+- [$TBD][[1173903](https://crbug.com/1173903)] High CVE-2021-21197: Heap buffer overflow in TabStrip. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-02-03
+	- [Issue 1173903: Security: container-overflow in TabStrip (abalq...@microsoft.com)](https://crbug.com/1173903)
+- [$TBD][[1184399](https://crbug.com/1184399)] High CVE-2021-21198: Out of bounds read in IPC. Reported by Mark Brand of Google Project Zero on 2021-03-03
+	- [Issue 1184399: Security: Legacy ipc::Message passed via shared memory. (markbrand@google.com)](https://crbug.com/1184399)
+
+# None (Friday, March 12, 2021) [5/5 bugs](https://chromereleases.googleblog.com/2021/03/stable-channel-update-for-desktop_12.html)
+- [$500][[1167357](https://crbug.com/1167357)] High CVE-2021-21191: Use after free in WebRTC. Reported by raven (@raid_akame)  on 2021-01-15
+	- [Issue 1167357: potential uaf in rtc_peer_connection (wxhu...@gmail.com)](https://crbug.com/1167357)
+- [$TBD][[1181387](https://crbug.com/1181387)] High CVE-2021-21192: Heap buffer overflow in tab groups. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-02-23
+	- [Issue 1181387: Security: container-overflow in TabGroups (abalq...@microsoft.com)](https://crbug.com/1181387)
+- [$TBD][[1186287](https://crbug.com/1186287)] High CVE-2021-21193: Use after free in Blink. Reported by Anonymous on 2021-03-09
+	- [Issue 1186287 (Permission denied.)](https://crbug.com/1186287)
+- [[1187298](https://crbug.com/1187298)] internal.
+	- [Issue 1179915: heap-use-after-free : ui::EventTarget::RemovePreTargetHandler (crash...@system.gserviceaccount.com)](https://crbug.com/1179915)
+	- [Issue 1177674: Security: Site Isolation bypass after BrowsingInstance state deleted (creis@chromium.org)](https://crbug.com/1177674)
+
+
+# None (Friday, March 5, 2021) [0/0 bugs](https://chromereleases.googleblog.com/2021/03/stable-channel-update-for-desktop_5.html)
+
+# 89.0.4389.72 (Tuesday, March 2, 2021) [46/47 bugs](https://chromereleases.googleblog.com/2021/03/stable-channel-update-for-desktop.html)
+- [$10000][[1171049](https://crbug.com/1171049)] High CVE-2021-21159: Heap buffer overflow in TabStrip. Reported by Khalil Zhani on 2021-01-27
+	- [Issue 1171049: Security: container-overflow in TabStrip::SetSelection (chrom...@gmail.com)](https://crbug.com/1171049)
+- [$7500][[1170531](https://crbug.com/1170531)] High CVE-2021-21160: Heap buffer overflow in WebAudio. Reported by Marcin 'Icewall' Noga of Cisco Talos on 2021-01-25
+	- [Issue 1170531: Talos Security Advisory for Google Chrome browser (TALOS-2021-1235) (regiw...@sourcefire.com)](https://crbug.com/1170531)
+- [$7500][[1173702](https://crbug.com/1173702)] High CVE-2021-21161: Heap buffer overflow in TabStrip. Reported by Khalil Zhani on 2021-02-02
+	- [Issue 1173702: Security: Heap buffer overflow in Tab Groups (chrom...@gmail.com)](https://crbug.com/1173702)
+- [$5000][[1172054](https://crbug.com/1172054)] High CVE-2021-21162: Use after free in WebRTC. Reported by Anonymous on 2021-01-29
+	- [Issue 1172054: UaF in WebRTC P2PSocketManagerProxy::CreateSocket (emily...@gmail.com)](https://crbug.com/1172054)
+- [$TBD][[1111239](https://crbug.com/1111239)] High CVE-2021-21163: Insufficient data validation in Reader Mode. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2020-07-30
+	- [Issue 1111239 (Permission denied.)](https://crbug.com/1111239)
+- [$TBD][[1164846](https://crbug.com/1164846)] High CVE-2021-21164: Insufficient data validation in Chrome for iOS. Reported by Muneaki Nishimura (nishimunea) on 2021-01-11
+	- [Issue 1164846 (Permission denied.)](https://crbug.com/1164846)
+- [$TBD][[1174582](https://crbug.com/1174582)] High CVE-2021-21165: Object lifecycle issue in audio. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2021-02-04
+	- [Issue 1174582: Security: ScriptProcessorNode allows write of Float32Array across threads (ahuff...@microsoft.com)](https://crbug.com/1174582)
+- [$TBD][[1177465](https://crbug.com/1177465)] High CVE-2021-21166: Object lifecycle issue in audio. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2021-02-11
+	- [Issue 1177465 (Permission denied.)](https://crbug.com/1177465)
+- [$10000][[1161144](https://crbug.com/1161144)] Medium CVE-2021-21167: Use after free in bookmarks. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2020-12-22
+	- [Issue 1161144: Security: UAF in Bookmark OpenAll (leecraso@gmail.com)](https://crbug.com/1161144)
+- [$5000][[1152226](https://crbug.com/1152226)] Medium CVE-2021-21168: Insufficient policy enforcement in appcache. Reported by Luan Herrera (@lbherrera_) on 2020-11-24
+	- [Issue 1152226: Leaking the URL of any cross-origin redirect through AppCache's network section (herre...@gmail.com)](https://crbug.com/1152226)
+- [$5000][[1166138](https://crbug.com/1166138)] Medium CVE-2021-21169: Out of bounds memory access in V8. Reported by Bohan Liu (@P4nda20371774) and Moon Liang of Tencent Security Xuanwu Lab on 2021-01-13
+	- [Issue 1166138: Security: Debug check failed: kMinCPOffset \<= by (-32768 vs. -65536). (p4nda...@gmail.com)](https://crbug.com/1166138)
+- [$3000][[1111646](https://crbug.com/1111646)] Medium CVE-2021-21170: Incorrect security UI in Loader. Reported by David Erceg on 2020-07-31
+	- [Issue 1111646: Security: Possible to spoof URL after renderer crash (derce...@gmail.com)](https://crbug.com/1111646)
+- [$3000][[1152894](https://crbug.com/1152894)] Medium CVE-2021-21171: Incorrect security UI in TabStrip and Navigation. Reported by Irvan Kurniawan (sourc7) on 2020-11-25
+	- [Issue 1152894: Security: WebView and Chromium based browser Omnibar Spoofing with Race Condition (susah...@gmail.com)](https://crbug.com/1152894)
+- [$1000][[1150810](https://crbug.com/1150810)] Medium CVE-2021-21172: Insufficient policy enforcement in File System API. Reported by Maciej Pulikowski on 2020-11-19
+	- [Issue 1150810: Security: File System Access API - getFileHandle() allowing to save .lnk files (macie...@gmail.com)](https://crbug.com/1150810)
+- [$500][[1154250](https://crbug.com/1154250)] Medium CVE-2021-21173: Side-channel information leakage in Network Internals. Reported by Tom Van Goethem from imec-DistriNet, KU Leuven on 2020-12-01
+	- [Issue 1154250: Security: determining size of CORB/CORP'd cross-origin responses (tomva...@gmail.com)](https://crbug.com/1154250)
+- [$TBD][[1146651](https://crbug.com/1146651)] Medium CVE-2021-21175: Inappropriate implementation in Site isolation. Reported by Jun Kokatsu, Microsoft Browser Vulnerability Research on 2020-11-07
+	- [Issue 1146651: X-Frame-Options console error leaks cross-origin redirect information to a cross-site renderer process (jun.k...@microsoft.com)](https://crbug.com/1146651)
+- [$TBD][[1170584](https://crbug.com/1170584)] Medium CVE-2021-21176: Inappropriate implementation in full screen mode. Reported by Luan Herrera (@lbherrera_) on 2021-01-26
+	- [Issue 1170584: UI/URL Spoofing by putting the page into fullscreen when a user opens the emoji dialog (herre...@gmail.com)](https://crbug.com/1170584)
+- [$TBD][[1173879](https://crbug.com/1173879)] Medium CVE-2021-21177: Insufficient policy enforcement in Autofill. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-02-03
+	- [Issue 1173879: Security: Autofill preview suggestion value can be made to persist (abalq...@microsoft.com)](https://crbug.com/1173879)
+- [$TBD][[1174186](https://crbug.com/1174186)] Medium CVE-2021-21178: Inappropriate implementation in Compositing. Reported by Japong on 2021-02-03
+	- [Issue 1174186: CSS 3D transform intersection glitch in Chrome / Windows (jap...@gmail.com)](https://crbug.com/1174186)
+- [$TBD][[1174943](https://crbug.com/1174943)] Medium CVE-2021-21179: Use after free in Network Internals. Reported by Anonymous on 2021-02-05
+	- [Issue 1174943: uaf in DestroyURLLoader(network::cors::CorsURLLoaderFactory) (emily...@gmail.com)](https://crbug.com/1174943)
+- [$TBD][[1175507](https://crbug.com/1175507)] Medium CVE-2021-21180: Use after free in tab search. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-02-07
+	- [Issue 1175507: Security: heap-use-after-free in TabSearchPageHandler::CloseTab (abalq...@microsoft.com)](https://crbug.com/1175507)
+- [$TBD][[1177875](https://crbug.com/1177875)] Medium CVE-2020-27844: Heap buffer overflow in OpenJPEG. Reported by Sean Campbell at Tableau on 2021-02-12
+	- [Issue 1177875 (Permission denied.)](https://crbug.com/1177875)
+- [$TBD][[1182767](https://crbug.com/1182767)] Medium CVE-2021-21181: Side-channel information leakage in autofill. Reported by Xu Lin (University of Illinois at Chicago), Panagiotis Ilia (University of Illinois at Chicago), Jason Polakis (University of Illinois at Chicago) on 2021-02-26
+	- [Issue 1182767: Security: Amended fix for Side-channel attack against Autofill Preview (adetaylor@google.com)](https://crbug.com/1182767)
+- [$1000][[1049265](https://crbug.com/1049265)] Low CVE-2021-21182: Insufficient policy enforcement in navigations. Reported by Luan Herrera (@lbherrera_) on 2020-02-05
+	- [Issue 1049265: Extensions with no special privileges are allowed to navigate to devtools:// scheme pages. (herre...@gmail.com)](https://crbug.com/1049265)
+- [$1000][[1105875](https://crbug.com/1105875)] Low CVE-2021-21183: Inappropriate implementation in performance APIs. Reported by Takashi Yoneuchi (@y0n3uchy) on 2020-07-15
+	- [Issue 1105875: Security: XS-Leak with Resource Timing API and CSP Embedded Enforcement (takas...@shift-js.info)](https://crbug.com/1105875)
+- [$1000][[1131929](https://crbug.com/1131929)] Low CVE-2021-21184: Inappropriate implementation in performance APIs. Reported by James Hartig on 2020-09-24
+	- [Issue 1131929: [Resource Timing] Missing PerformanceResourceTiming entries for iframe Requests that don't receive a Response (faste...@gmail.com)](https://crbug.com/1131929)
+- [$TBD][[1100748](https://crbug.com/1100748)] Low CVE-2021-21185: Insufficient policy enforcement in extensions. Reported by David Erceg on 2020-06-30
+	- [Issue 1100748: Security: Possible for extensions to access chrome.cloudPrintPrivate API (derce...@gmail.com)](https://crbug.com/1100748)
+- [$TBD][[1153445](https://crbug.com/1153445)] Low CVE-2021-21186: Insufficient policy enforcement in QR scanning. Reported by dhirajkumarnifty on 2020-11-28
+	- [Issue 1153445 (Permission denied.)](https://crbug.com/1153445)
+- [$TBD][[1155516](https://crbug.com/1155516)] Low CVE-2021-21187: Insufficient data validation in URL formatting. Reported by Kirtikumar Anandrao Ramchandani on 2020-12-04
+	- [Issue 1155516 (Permission denied.)](https://crbug.com/1155516)
+- [$N/A][[1161739](https://crbug.com/1161739)] Low CVE-2021-21188: Use after free in Blink. Reported by Woojin Oh(@pwn_expoit) of STEALIEN on 2020-12-24
+	- [Issue 1161739: Security: UAP in animate (rapid...@gmail.com)](https://crbug.com/1161739)
+- [$TBD][[1165392](https://crbug.com/1165392)] Low CVE-2021-21189: Insufficient policy enforcement in payments. Reported by Khalil Zhani on 2021-01-11
+	- [Issue 1165392 (Permission denied.)](https://crbug.com/1165392)
+- [$TBD][[1166091](https://crbug.com/1166091)] Low CVE-2021-21190: Uninitialized Use in PDFium. Reported by Zhou Aiting(@zhouat1) of Qihoo 360 Vulcan Team on 2021-01-13
+	- [Issue 1166091: Security: Use of conditionally uninitialised stack variable may leak stack state (zhoua...@gmail.com)](https://crbug.com/1166091)
+- [[1183883](https://crbug.com/1183883)] internal.
+	- [Issue 1180871: Heap-use-after-free in storage::DataPipeTransportStrategy::OnDataPipeReadable (ClusterFuzz)](https://crbug.com/1180871)
+	- [Issue 1177593: heap-buffer-overflow : blink::H264Encoder::EncodeOnEncodingTaskRunner (crash...@system.gserviceaccount.com)](https://crbug.com/1177593)
+	- [Issue 1163122: Security: /run/arc/host_generated allows chronos to configure any Android system properties (jorgelo@chromium.org)](https://crbug.com/1163122)
+	- [Issue 1175975: WebCodecs VideoFrame allows tainting bypass for ImageBitmaps. (dalec...@chromium.org)](https://crbug.com/1175975)
+	- [Issue 1167277: Lacros 3D Canvas can leak outside of iFrame (petermcneeley@chromium.org)](https://crbug.com/1167277)
+	- [Issue 1161048: Upgrade SQLite to 3.34.0 (huangdarwin@chromium.org)](https://crbug.com/1161048)
+	- [Issue 1146813: Crash in v8::internal::Builtins::builtin_handle (ClusterFuzz)](https://crbug.com/1146813)
+	- [Issue 1146319 (Permission denied.)](https://crbug.com/1146319)
+	- [Issue 1142712: heap-use-after-free : base::ReleaseHelper\<content::IndexedDBContextImpl\>::DoRelease (crash...@system.gserviceaccount.com)](https://crbug.com/1142712)
+	- [Issue 1062941: libyuv_scale_fuzzer: Heap-buffer-overflow in ScaleFilterCols_16_C (ClusterFuzz)](https://crbug.com/1062941)
+	- [Issue 1164055: Security: Blink web_test fonts unowned (adetaylor@google.com)](https://crbug.com/1164055)
+	- [Issue 1162123: heap-use-after-free : web_app::WebAppMetrics::~WebAppMetrics (crash...@system.gserviceaccount.com)](https://crbug.com/1162123)
+	- [Issue 1155710: Iterating a directory with the File System Access API does not check current permissions. (mek@chromium.org)](https://crbug.com/1155710)
+	- [Issue 1099985: Heap-use-after-free for desks widget in bool ui::PropertyHandler::GetProperty\<bool\> (ClusterFuzz)](https://crbug.com/1099985)
+
+
+# None (Monday, February 22, 2021) [0/0 bugs](https://chromereleases.googleblog.com/2021/02/stable-channel-update-for-desktop_22.html)
+
+# None (Tuesday, February 16, 2021) [10/10 bugs](https://chromereleases.googleblog.com/2021/02/stable-channel-update-for-desktop_16.html)
+- [$20000][[1138143](https://crbug.com/1138143)] High CVE-2021-21149: Stack overflow in Data Transfer. Reported by Ryoya Tsukasaki on 2020-10-14
+	- [Issue 1138143: segmentation fault in mojom::clipboard (work3...@gmail.com)](https://crbug.com/1138143)
+- [$20000][[1172192](https://crbug.com/1172192)] High CVE-2021-21150: Use after free in Downloads. Reported by Woojin Oh(@pwn_expoit) of STEALIEN on 2021-01-29
+	- [Issue 1172192: Security: UAF in Drag and Drop Download (rapid...@gmail.com)](https://crbug.com/1172192)
+- [$15000][[1165624](https://crbug.com/1165624)] High CVE-2021-21151: Use after free in Payments. Reported by Khalil Zhani on 2021-01-12
+	- [Issue 1165624: Security: UaF in chrome!payments::PaymentRequestSheetController::UpdateHeaderView (chrom...@gmail.com)](https://crbug.com/1165624)
+- [$5000][[1166504](https://crbug.com/1166504)] High CVE-2021-21152: Heap buffer overflow in Media. Reported by Anonymous on 2021-01-14
+	- [Issue 1166504: heap bufferoverflow in VideoFrameYUVConverter  (emily...@gmail.com)](https://crbug.com/1166504)
+- [$1000][[1155974](https://crbug.com/1155974)] High CVE-2021-21153: Stack overflow in GPU Process. Reported by Jan Ruge of ERNW GmbH on 2020-12-06
+	- [Issue 1155974: Security: WebGL Shader Stack Exhaustion leading to PC control in llvmpipe (jan.s...@gmail.com)](https://crbug.com/1155974)
+- [$TBD][[1173269](https://crbug.com/1173269)] High CVE-2021-21154: Heap buffer overflow in Tab Strip . Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2021-02-01
+	- [Issue 1173269: Security: heap-buffer-overflow in TabStripModel  (abalq...@microsoft.com)](https://crbug.com/1173269)
+- [$TBD][[1175500](https://crbug.com/1175500)] High CVE-2021-21155: Heap buffer overflow in Tab Strip . Reported by Khalil Zhani on 2021-02-07
+	- [Issue 1175500: Security: Heap-buffer-overflow in TabStripModel::GroupTab (Windows-only) (chrom...@gmail.com)](https://crbug.com/1175500)
+- [$TBD][[1177341](https://crbug.com/1177341)] High CVE-2021-21156: Heap buffer overflow in V8. Reported by Sergei Glazunov of Google Project Zero on 2021-02-11
+	- [Issue 1177341: Security: Insufficient fix for CVE-2021-21148 (glazunov@google.com)](https://crbug.com/1177341)
+- [$TBD][[1170657](https://crbug.com/1170657)] Medium CVE-2021-21157: Use after free in Web Sockets. Reported by Anonymous on 2021-01-26
+	- [Issue 1170657: use after poison in DOMWebSocket (nekla...@gmail.com)](https://crbug.com/1170657)
+- [[1178973](https://crbug.com/1178973)] internal.
+	- [Issue 1171954: DCHECK failure in other-\>values_[index] != builder()-\>jsgraph()-\>OptimizedOutConstant() in bytecod (ClusterFuzz)](https://crbug.com/1171954)
+
+
+# None (Thursday, February 4, 2021) [1/1 bugs](https://chromereleases.googleblog.com/2021/02/stable-channel-update-for-desktop_4.html)
+- [$TBD][[1170176](https://crbug.com/1170176)] High CVE-2021-21148: Heap buffer overflow in V8. Reported by Mattias Buelens on 2021-01-24
+	- [Issue 1170176 (Permission denied.)](https://crbug.com/1170176)
+
+# None (Tuesday, February 2, 2021) [8/6 bugs](https://chromereleases.googleblog.com/2021/02/stable-channel-update-for-desktop.html)
+- [$20000][[1169317](https://crbug.com/1169317)] Critical CVE-2021-21142: Use after free in Payments . Reported by Khalil Zhani on 2021-01-21
+	- [Issue 1169317: Security: UaF in payments::SecurePaymentConfirmationAppFactory (chrom...@gmail.com)](https://crbug.com/1169317)
+- [$10000][[1163504](https://crbug.com/1163504)] High CVE-2021-21143: Heap buffer overflow in Extensions. Reported by Allen Parker & Alex Morgan of MU on 2021-01-06
+	- [Issue 1163504: Security: heap-buffer-overflow in extension (gambi...@gmail.com)](https://crbug.com/1163504)
+- [$10000][[1163845](https://crbug.com/1163845)] High CVE-2021-21144: Heap buffer overflow in Tab Groups. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2021-01-07
+	- [Issue 1163845: Security: HeapOverflow in TabStripModel (leecraso@gmail.com)](https://crbug.com/1163845)
+- [$7500][[1154965](https://crbug.com/1154965)] High CVE-2021-21145: Use after free in Fonts. Reported by Anonymous on 2020-12-03
+	- [Issue 1154965 (Permission denied.)](https://crbug.com/1154965)
+- [$TBD][[1161705](https://crbug.com/1161705)] High CVE-2021-21146: Use after free in Navigation. Reported by Alison Huffman and Choongwoo Han of Microsoft Browser Vulnerability Research on 2020-12-24
+	- [Issue 1161705: Security: heap-user-after-free in SearchTabHelper::DidStartNavigation (ahuff...@microsoft.com)](https://crbug.com/1161705)
+- [$5000][[1162942](https://crbug.com/1162942)] Medium CVE-2021-21147: Inappropriate implementation in Skia. Reported by Roman Starkov on 2021-01-04
+	- [Issue 1162942: Security: website is able to draw over protected UI elements (URL, padlock, tab list, titlebar) using 3D CSS transforms (rstar...@gmail.com)](https://crbug.com/1162942)
+- [[1154775](https://crbug.com/1154775)] internal.
+	- [Issue 1147357: Heap-use-after-free in blink::NGContainerFragmentBuilder::MoveOutOfFlowDescendantCandidatesToDescendant (ClusterFuzz)](https://crbug.com/1147357)
+	- [Issue 1146861: DCHECK failure in dst.low_gp() != lhs.high_gp() in liftoff-assembler-arm.h (ClusterFuzz)](https://crbug.com/1146861)
+
+
+# None (Tuesday, January 19, 2021) [36/36 bugs](https://chromereleases.googleblog.com/2021/01/stable-channel-update-for-desktop_19.html)
+- [$30000][[1137179](https://crbug.com/1137179)] Critical CVE-2021-21117: Insufficient policy enforcement in Cryptohome. Reported by Rory McNamara on 2020-10-10
+	- [Issue 1137179: Security: Root priv escalation through cryptohomed, imageburner, arc-obb-mounter (rory@rorym.cnamara.com)](https://crbug.com/1137179)
+- [$16000][[1161357](https://crbug.com/1161357)] High CVE-2021-21118: Insufficient data validation in V8. Reported by Tyler Nighswander (@tylerni7) of Theori on 2020-12-23
+	- [Issue 1161357: Security: Debug check failed: code == topmost_ implies safe_to_deopt_ (tyler...@gmail.com)](https://crbug.com/1161357)
+- [$5000][[1160534](https://crbug.com/1160534)] High CVE-2021-21119: Use after free in Media. Reported by Anonymous on 2020-12-20
+	- [Issue 1160534 (Permission denied.)](https://crbug.com/1160534)
+- [$5000][[1160602](https://crbug.com/1160602)] High CVE-2021-21120: Use after free in WebSQL. Reported by Nan Wang(@eternalsakura13) and Guang Gong of 360 Alpha Lab on 2020-12-21
+	- [Issue 1160602: Security: Use After Free in WebSQL (etern...@gmail.com)](https://crbug.com/1160602)
+- [$5000][[1161143](https://crbug.com/1161143)] High CVE-2021-21121: Use after free in Omnibox. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2020-12-22
+	- [Issue 1161143: Security: UAF in LocationBar (leecraso@gmail.com)](https://crbug.com/1161143)
+- [$5000][[1162131](https://crbug.com/1162131)] High CVE-2021-21122: Use after free in Blink. Reported by Renata Hodovan on 2020-12-28
+	- [Issue 1162131: Security: heap-use-after-free in IsBox (hodov...@gmail.com)](https://crbug.com/1162131)
+- [$1000][[1137247](https://crbug.com/1137247)] High CVE-2021-21123: Insufficient data validation in File System API. Reported by Maciej Pulikowski on 2020-10-11
+	- [Issue 1137247: Security: Spoofing download filename extension in 86 chrome - showSaveFilePicker (macie...@gmail.com)](https://crbug.com/1137247)
+- [$N/A][[1131346](https://crbug.com/1131346)] High CVE-2021-21124: Potential user after free in Speech Recognizer. Reported by Chaoyang Ding(@V4kst1z) from Codesafe Team of Legendsec at Qi'anxin Group on 2020-09-23
+	- [Issue 1131346: Potential UAF in Speech Recognizer  (dcyd...@gmail.com)](https://crbug.com/1131346)
+- [$N/A][[1152327](https://crbug.com/1152327)] High CVE-2021-21125: Insufficient policy enforcement in File System API. Reported by Ron Masas (Imperva) on 2020-11-24
+	- [Issue 1152327: Security: File System Access API & Symlinks (ronma...@gmail.com)](https://crbug.com/1152327)
+- [$N/A][[1163228](https://crbug.com/1163228)] High CVE-2020-16044: Use after free in WebRTC. Reported by Ned Williamson of Project Zero on 2021-01-05
+	- [Issue 1163228 (Permission denied.)](https://crbug.com/1163228)
+- [$3000][[1108126](https://crbug.com/1108126)] Medium CVE-2021-21126: Insufficient policy enforcement in extensions. Reported by David Erceg on 2020-07-22
+	- [Issue 1108126: Security: Chrome Apps can access chrome.storage for other extensions via webview (derce...@gmail.com)](https://crbug.com/1108126)
+- [$3000][[1115590](https://crbug.com/1115590)] Medium CVE-2021-21127: Insufficient policy enforcement in extensions. Reported by Jasminder Pal Singh, Web Services Point WSP, Kotkapura on 2020-08-12
+	- [Issue 1115590: CSP Bypass via Chrome Extension (ghuli...@gmail.com)](https://crbug.com/1115590)
+- [$2000][[1138877](https://crbug.com/1138877)] Medium CVE-2021-21128: Heap buffer overflow in Blink. Reported by Liang Dong on 2020-10-15
+	- [Issue 1138877: Security: heap-buffer-overflow in window.find (liangdong46@gmail.com)](https://crbug.com/1138877)
+- [$1000][[1140403](https://crbug.com/1140403)] Medium CVE-2021-21129: Insufficient policy enforcement in File System API. Reported by Maciej Pulikowski on 2020-10-20
+	- [Issue 1140403: Security: Hide real extension of file by many white spaces - showSaveFilePicker (macie...@gmail.com)](https://crbug.com/1140403)
+- [$1000][[1140410](https://crbug.com/1140410)] Medium CVE-2021-21130: Insufficient policy enforcement in File System API. Reported by Maciej Pulikowski on 2020-10-20
+	- [Issue 1140410: Security:  Hide real extension of file by RTL - showSaveFilePicker (macie...@gmail.com)](https://crbug.com/1140410)
+- [$1000][[1140417](https://crbug.com/1140417)] Medium CVE-2021-21131: Insufficient policy enforcement in File System API. Reported by Maciej Pulikowski on 2020-10-20
+	- [Issue 1140417: Security: showSaveFilePicker allowing to save .lnk and .local files on windows! (macie...@gmail.com)](https://crbug.com/1140417)
+- [$TBD][[1128206](https://crbug.com/1128206)] Medium CVE-2021-21132: Inappropriate implementation in DevTools. Reported by David Erceg on 2020-09-15
+	- [Issue 1128206: Security: Possible for extension to escape sandbox via devtools_page and intentionally crashed renderer (derce...@gmail.com)](https://crbug.com/1128206)
+- [$TBD][[1157743](https://crbug.com/1157743)] Medium CVE-2021-21133: Insufficient policy enforcement in Downloads. Reported by wester0x01(https://twitter.com/wester0x01) on 2020-12-11
+	- [Issue 1157743 (Permission denied.)](https://crbug.com/1157743)
+- [$TBD][[1157800](https://crbug.com/1157800)] Medium CVE-2021-21134: Incorrect security UI in Page Info. Reported by wester0x01(https://twitter.com/wester0x01) on 2020-12-11
+	- [Issue 1157800 (Permission denied.)](https://crbug.com/1157800)
+- [$TBD][[1157818](https://crbug.com/1157818)] Medium CVE-2021-21135: Inappropriate implementation in Performance API. Reported by ndevtk on 2020-12-11
+	- [Issue 1157818: performance API reveals information about redirects (XS-Leak) (terjanq@google.com)](https://crbug.com/1157818)
+- [$2000][[1038002](https://crbug.com/1038002)] Low CVE-2021-21136: Insufficient policy enforcement in WebView. Reported by Shiv Sahni, Movnavinothan V and Imdad Mohammed on 2019-12-27
+	- [Issue 1038002: Unintended Data Leakage Through HTTP Request Headers (shivs...@gmail.com)](https://crbug.com/1038002)
+- [$500][[1093791](https://crbug.com/1093791)] Low CVE-2021-21137: Inappropriate implementation in DevTools. Reported by bobblybear on 2020-06-11
+	- [Issue 1093791: Security: Chrome's insecure construction of curl commands allows untrusted websites to retrieve local files from the user's system (paulm...@gmail.com)](https://crbug.com/1093791)
+- [$500][[1122487](https://crbug.com/1122487)] Low CVE-2021-21138: Use after free in DevTools. Reported by Weipeng Jiang (@Krace) from Codesafe Team of Legendsec at Qi'anxin Group on 2020-08-27
+	- [Issue 1122487: UAF in devtools (merc....@gmail.com)](https://crbug.com/1122487)
+- [$N/A][[937131](https://crbug.com/937131)] Low CVE-2021-21139: Inappropriate implementation in iframe sandbox. Reported by Jun Kokatsu, Microsoft Browser Vulnerability Research on 2019-03-01
+	- [Issue 937131: Feature Policy 'allow' attribute can override top-level policy in frames (jun.k...@microsoft.com)](https://crbug.com/937131)
+- [$N/A][[1136327](https://crbug.com/1136327)] Low CVE-2021-21140: Uninitialized Use in USB. Reported by David Manouchehri on 2020-10-08
+	- [Issue 1136327: Security: Use of use-of-uninitialized-value in UsbDeviceHandleUsbfs (da...@davidmanouchehri.com)](https://crbug.com/1136327)
+- [$N/A][[1140435](https://crbug.com/1140435)] Low CVE-2021-21141: Insufficient policy enforcement in File System API. Reported by Maciej Pulikowski on 2020-10-20
+	- [Issue 1140435: Security: showSaveFilePicker allowing to save file extension with space at the end - cannot delete file on windows (macie...@gmail.com)](https://crbug.com/1140435)
+- [[1168217](https://crbug.com/1168217)] internal.
+	- [Issue 1162198: heap-use-after-free : mojo::core::NodeController::DropPeer (crash...@system.gserviceaccount.com)](https://crbug.com/1162198)
+	- [Issue 1161654: v8_wasm_fuzzer: DCHECK failure in has(reg.low()) == has(reg.high()) in liftoff-register.h (ClusterFuzz)](https://crbug.com/1161654)
+	- [Issue 1156904: Security DCHECK failure: IsA\<Derived\>(from) in casting.h (ClusterFuzz)](https://crbug.com/1156904)
+	- [Issue 1153329 (Permission denied.)](https://crbug.com/1153329)
+	- [Issue 1142069: heap-use-after-free : content::DownloadManagerImpl::GetDownload (crash...@system.gserviceaccount.com)](https://crbug.com/1142069)
+	- [Issue 1097499: pdf_scanlinecompositor_fuzzer: Crash in GetAlphaWithSrc (ClusterFuzz)](https://crbug.com/1097499)
+	- [Issue 1145906: heap-use-after-free : ProfileInfoCache::NotifyProfileAuthInfoChanged (crash...@system.gserviceaccount.com)](https://crbug.com/1145906)
+	- [Issue 1144646: NAT Slipstream: Overlong usernames in TURN credentials (hta@chromium.org)](https://crbug.com/1144646)
+	- [Issue 1135835: DialURLFetcher::Start may bypass Sec-Fetch-Site (lukasza@chromium.org)](https://crbug.com/1135835)
+	- [Issue 1135594: Security: woff2 missing upstream fix for integer overflow (adetaylor@google.com)](https://crbug.com/1135594)
+
+
+# None (Wednesday, January 6, 2021) [16/16 bugs](https://chromereleases.googleblog.com/2021/01/stable-channel-update-for-desktop.html)
+- [$20000][[1148749](https://crbug.com/1148749)] High CVE-2021-21106: Use after free in autofill. Reported by Weipeng Jiang (@Krace) from Codesafe Team of Legendsec at Qi'anxin Group on 2020-11-13
+	- [Issue 1148749: Double free/UAF in RegionDataLoaderImpl::DeleteThis (merc....@gmail.com)](https://crbug.com/1148749)
+- [$20000][[1153595](https://crbug.com/1153595)] High CVE-2021-21107: Use after free in drag and drop. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2020-11-30
+	- [Issue 1153595: Security: UAF in Drag-and-drop (leecraso@gmail.com)](https://crbug.com/1153595)
+- [$20000][[1155426](https://crbug.com/1155426)] High CVE-2021-21108: Use after free in media. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2020-12-04
+	- [Issue 1155426: Security: UAF in MediaStreamCapture (leecraso@gmail.com)](https://crbug.com/1155426)
+- [$15000][[1152334](https://crbug.com/1152334)] High CVE-2021-21109: Use after free in payments. Reported by Rong Jian and Guang Gong of 360 Alpha Lab on 2020-11-24
+	- [Issue 1152334: Security: UAF in PaymentResponseHelper::GeneratePaymentResponse (jtrro...@gmail.com)](https://crbug.com/1152334)
+- [$15000][[1152451](https://crbug.com/1152451)] High CVE-2021-21110: Use after free in safe browsing. Reported by Anonymous on 2020-11-24
+	- [Issue 1152451 (Permission denied.)](https://crbug.com/1152451)
+- [$7500][[1149125](https://crbug.com/1149125)] High CVE-2021-21111: Insufficient policy enforcement in WebUI. Reported by Alesandro Ortiz on 2020-11-15
+	- [Issue 1149125: Security: Some WebUI pages enable MojoJS bindings for the subsequently-navigated site (alesa...@alesandroortiz.com)](https://crbug.com/1149125)
+- [$7500][[1151298](https://crbug.com/1151298)] High CVE-2021-21112: Use after free in Blink. Reported by YoungJoo Lee(@ashuu_lee) of Raon Whitehat on 2020-11-20
+	- [Issue 1151298: Security: Use-After-Free in DeflateTransformer (borig...@gmail.com)](https://crbug.com/1151298)
+- [$6000][[1155178](https://crbug.com/1155178)] High CVE-2021-21113: Heap buffer overflow in Skia. Reported by tsubmunu on 2020-12-03
+	- [Issue 1155178: Security: Skia GPU bug (adetaylor@google.com)](https://crbug.com/1155178)
+- [$N/A][[1148309](https://crbug.com/1148309)] High CVE-2020-16043: Insufficient data validation in networking. Reported by Samy Kamkar, Ben Seri at Armis, Gregory Vishnepolsky at Armis on 2020-11-12
+	- [Issue 1148309 (Permission denied.)](https://crbug.com/1148309)
+- [$N/A][[1150065](https://crbug.com/1150065)] High CVE-2021-21114: Use after free in audio. Reported by Man Yue Mo of GitHub Security Lab on 2020-11-17
+	- [Issue 1150065: UaF in AudioHandler::ProcessIfNecessary (rtoy@chromium.org)](https://crbug.com/1150065)
+- [$TBD][[1157790](https://crbug.com/1157790)] High CVE-2020-15995: Out of bounds write in V8. Reported by Bohan Liu (@P4nda20371774) of Tencent Security Xuanwu Lab on 2020-12-11
+	- [Issue 1157790: Security: Out of Bounds in V8 (p4nda...@gmail.com)](https://crbug.com/1157790)
+- [$TBD][[1157814](https://crbug.com/1157814)] High CVE-2021-21115: Use after free in safe browsing. Reported by Leecraso and Guang Gong of 360 Alpha Lab on 2020-12-11
+	- [Issue 1157814: Security: UAF in PasswordProtectionRequest (leecraso@gmail.com)](https://crbug.com/1157814)
+- [$N/A][[1151069](https://crbug.com/1151069)] Medium CVE-2021-21116: Heap buffer overflow in audio. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2020-11-19
+	- [Issue 1151069: Security: heap-buffer-overflow in AudioWorkletProcessor::CopyParamValueMapToObject (ahuff...@microsoft.com)](https://crbug.com/1151069)
+- [[1163626](https://crbug.com/1163626)] internal.
+	- [Issue 1157562 (Permission denied.)](https://crbug.com/1157562)
+	- [Issue 1153442: DCHECK failure in UseScratchRegisterScope{this}.CanAcquire() in liftoff-assembler-arm.h (ClusterFuzz)](https://crbug.com/1153442)
+	- [Issue 1152645: Security: Race condition on destruction of GpuMemoryBufferFactoryNativePixmap may cause use after free (andrescj@chromium.org)](https://crbug.com/1152645)
+
+
+# None (Wednesday, December 2, 2020) [8/8 bugs](https://chromereleases.googleblog.com/2020/12/stable-channel-update-for-desktop.html)
+- [$5000][[1142331](https://crbug.com/1142331)] High CVE-2020-16037: Use after free in clipboard. Reported by Ryoya Tsukasaki on 2020-10-26
+	- [Issue 1142331: Security: use-after-poison in blink::FileReaderLoader::OnReceivedData (work3...@gmail.com)](https://crbug.com/1142331)
+- [$TBD][[1138683](https://crbug.com/1138683)] High CVE-2020-16038: Use after free in media. Reported by Khalil Zhani on 2020-10-14
+	- [Issue 1138683: Security: Use-after-free in MediaStreamCaptureIndicator::WebContentsDeviceUsage::AddDevices() (chrom...@gmail.com)](https://crbug.com/1138683)
+- [$TBD][[1149177](https://crbug.com/1149177)] High CVE-2020-16039: Use after free in extensions. Reported by Anonymous on 2020-11-15
+	- [Issue 1149177 (Permission denied.)](https://crbug.com/1149177)
+- [$TBD][[1150649](https://crbug.com/1150649)] High CVE-2020-16040: Insufficient data validation in V8. Reported by Lucas Pinheiro, Microsoft Browser Vulnerability Research on 2020-11-19
+	- [Issue 1150649: DCHECK failure in 0 \<= length && length \<= kMaxSafeInteger in builtins-array.cc (lupin...@microsoft.com)](https://crbug.com/1150649)
+- [$TBD][[1151865](https://crbug.com/1151865)] Medium CVE-2020-16041: Out of bounds read in networking. Reported by Sergei Glazunov and Mark Brand of Google Project Zero on 2020-11-23
+	- [Issue 1151865: Security: OOB-read in network DataElement struct traits. (markbrand@google.com)](https://crbug.com/1151865)
+- [$TBD][[1151890](https://crbug.com/1151890)] Medium CVE-2020-16042: Uninitialized Use in V8. Reported by André Bargull on 2020-11-23
+	- [Issue 1151890: Security: Uninitialised memory read with BigInt right-shift (andre...@googlemail.com)](https://crbug.com/1151890)
+- [[1154775](https://crbug.com/1154775)] internal.
+	- [Issue 1147357 (Permission denied.)](https://crbug.com/1147357)
+	- [Issue 1146861 (Permission denied.)](https://crbug.com/1146861)
+
+
+# None (Tuesday, November 17, 2020) [33/33 bugs](https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop_17.html)
+- [$TBD][[1136078](https://crbug.com/1136078)] High CVE-2020-16018: Use after free in payments. Reported by Man Yue Mo of GitHub Security Lab on 2020-10-07
+	- [Issue 1136078: UaF in PaymentCredential::DidDownloadFavicon (m...@semmle.com)](https://crbug.com/1136078)
+- [$TBD][[1139408](https://crbug.com/1139408)] High CVE-2020-16019: Inappropriate implementation in filesystem. Reported by Rory McNamara on 2020-10-16
+	- [Issue 1139408: arc-media-removable-{read,write} are not using noexec (jorgelo@chromium.org)](https://crbug.com/1139408)
+- [$TBD][[1139411](https://crbug.com/1139411)] High CVE-2020-16020: Inappropriate implementation in cryptohome. Reported by Rory McNamara on 2020-10-16
+	- [Issue 1139411: Security: cryptohomed skeleton copy can be raced to chown things to user chronos (jorgelo@chromium.org)](https://crbug.com/1139411)
+- [$TBD][[1139414](https://crbug.com/1139414)] High CVE-2020-16021: Race in ImageBurner. Reported by Rory McNamara on 2020-10-16
+	- [Issue 1139414: Security: imageburner path check can be raced (jorgelo@chromium.org)](https://crbug.com/1139414)
+- [$TBD][[1145680](https://crbug.com/1145680)] High CVE-2020-16022: Insufficient policy enforcement in networking. Reported by @SamyKamkar on 2020-11-04
+	- [Issue 1145680: Ports 5060 and 5061 should be blocked (ricea@chromium.org)](https://crbug.com/1145680)
+- [$TBD][[1146673](https://crbug.com/1146673)] High CVE-2020-16015: Insufficient data validation in WASM. Reported by Rong Jian and Leecraso of 360 Alpha Lab on 2020-11-07
+	- [Issue 1146673: Security: type confusion in wasm cache (wfh@chromium.org)](https://crbug.com/1146673)
+- [$TBD][[1146675](https://crbug.com/1146675)] High CVE-2020-16014: Use after free in PPAPI. Reported by Rong Jian and Leecraso of 360 Alpha Lab on 2020-11-07
+	- [Issue 1146675: Security: UAF in PepperFileIOHost (wfh@chromium.org)](https://crbug.com/1146675)
+- [$7500+$7500][[1146761](https://crbug.com/1146761)] High CVE-2020-16023: Use after free in WebCodecs. Reported by Brendon Tiszka and David Manouchehri supporting the @eff on 2020-11-07
+	- [Issue 1146761: Security: UAF in ImageDecoderExternal due to ArrayBuffer Neuter (btiszka@gmail.com)](https://crbug.com/1146761)
+- [$NA][[1147430](https://crbug.com/1147430)] High CVE-2020-16024: Heap buffer overflow in UI. Reported by Sergei Glazunov of Google Project Zero on 2020-11-10
+	- [Issue 1147430: Security: Heap-buffer-overflow in SkBitmapOperations::UnPreMultiply (glazunov@google.com)](https://crbug.com/1147430)
+- [$NA][[1147431](https://crbug.com/1147431)] High CVE-2020-16025: Heap buffer overflow in clipboard. Reported by Sergei Glazunov of Google Project Zero on 2020-11-10
+	- [Issue 1147431: Security: Heap-buffer-overflow in ClipboardWin::WriteBitmap (glazunov@google.com)](https://crbug.com/1147431)
+- [$7500][[1139153](https://crbug.com/1139153)] Medium CVE-2020-16026: Use after free in WebRTC. Reported by Jong-Gwon Kim (kkwon) on 2020-10-16
+	- [Issue 1139153: Security: Heap-use-after-free in WebRTC (kkwon...@gmail.com)](https://crbug.com/1139153)
+- [$5000][[1116444](https://crbug.com/1116444)] Medium CVE-2020-16027: Insufficient policy enforcement in developer tools. Reported by David Erceg on 2020-08-14
+	- [Issue 1116444: Security: Extensions can capture contents of local files using Page.captureScreenshot (derce...@gmail.com)](https://crbug.com/1116444)
+- [$5000][[1138446](https://crbug.com/1138446)] Medium CVE-2020-16028: Heap buffer overflow in WebRTC. Reported by asnine on 2020-10-14
+	- [Issue 1138446: Security: webrtc container-overflow in the browser process (0xasn...@gmail.com)](https://crbug.com/1138446)
+- [$3000][[1134338](https://crbug.com/1134338)] Medium CVE-2020-16029: Inappropriate implementation in PDFium. Reported by Anonymous on 2020-10-01
+	- [Issue 1134338: Security: Incorrect Handling of XFrameOptions with mailMsg in the PDF Viewer (chama...@gmail.com)](https://crbug.com/1134338)
+- [$3000][[1141350](https://crbug.com/1141350)] Medium CVE-2020-16030: Insufficient data validation in Blink. Reported by Michał Bentkowski of Securitum on 2020-10-22
+	- [Issue 1141350: Security: Yet another universal XSS via copy&paste (mic...@bentkowski.info)](https://crbug.com/1141350)
+- [$1000][[945997](https://crbug.com/945997)] Medium CVE-2019-8075: Insufficient data validation in Flash. Reported by Nethanel Gelernter, Cyberpion (https://www.cyberpion.com) on 2019-03-26
+	- [Issue 945997 (Permission denied.)](https://crbug.com/945997)
+- [$500][[1133183](https://crbug.com/1133183)] Medium CVE-2020-16031: Incorrect security UI in tab preview. Reported by wester0x01(https://twitter.com/wester0x01) on 2020-09-29
+	- [Issue 1133183: Incorrect Security UI when using Tab preview (zyzen...@gmail.com)](https://crbug.com/1133183)
+- [$500][[1136714](https://crbug.com/1136714)] Medium CVE-2020-16032: Incorrect security UI in sharing. Reported by wester0x01(https://twitter.com/wester0x01) on 2020-10-09
+	- [Issue 1136714: Incorrect security UI at screen share API (zyzen...@gmail.com)](https://crbug.com/1136714)
+- [$500][[1143057](https://crbug.com/1143057)] Medium CVE-2020-16033: Incorrect security UI in WebUSB. Reported by Khalil Zhani on 2020-10-28
+	- [Issue 1143057: Security: WebUSB permission dialog can appear over the wrong tab  (chrom...@gmail.com)](https://crbug.com/1143057)
+- [$TBD][[1137362](https://crbug.com/1137362)] Medium CVE-2020-16034: Inappropriate implementation in WebRTC. Reported by vvmute (Benjamin Petermaier) on 2020-10-12
+	- [Issue 1137362: Security: Chrome Browser Policy Bypass "Allow invocation of file selection dialogs" (benj...@gmail.com)](https://crbug.com/1137362)
+- [$TBD][[1139409](https://crbug.com/1139409)] Medium CVE-2020-16035: Insufficient data validation in cros-disks. Reported by Rory McNamara on 2020-10-16
+	- [Issue 1139409: Security: cros-disks will mount local loop devices (jorgelo@chromium.org)](https://crbug.com/1139409)
+- [$5000][[1088224](https://crbug.com/1088224)] Low CVE-2020-16012: Side-channel information leakage in graphics. Reported by Aleksejs Popovs on 2020-05-30
+	- [Issue 1088224: Security: drawImage timing depends on alpha-channel value, allowing to read cross-origin images (aleks...@popovs.lv)](https://crbug.com/1088224)
+- [$500][[830808](https://crbug.com/830808)] Low CVE-2020-16036: Inappropriate implementation in cookies. Reported by Jun Kokatsu (@shhnjk) on 2018-04-09
+	- [Issue 830808 (Permission denied.)](https://crbug.com/830808)
+- [[1149434](https://crbug.com/1149434)] internal.
+	- [Issue 1140197: Security: Apply fix for freetype heap buffer overflow to Chrome OS (mnissler@chromium.org)](https://crbug.com/1140197)
+	- [Issue 1142020: heap-buffer-overflow : gfx::internal::StyleIterator::GetTextBreakingRange (crash...@system.gserviceaccount.com)](https://crbug.com/1142020)
+	- [Issue 1140949: CrOS: Vulnerability reported in net-wireless/bluez (vomit...@appspot.gserviceaccount.com)](https://crbug.com/1140949)
+	- [Issue 1137603: Heap-use-after-free in blink::PropertyTreeStateOrAlias::Unalias (ClusterFuzz)](https://crbug.com/1137603)
+	- [Issue 1133047: Security: arc-setup should validate /run/arc/oem/etc/media_profiles.xml is not a symlink (kerrnel@chromium.org)](https://crbug.com/1133047)
+	- [Issue 1133009: Security: login_manager symlink attack (kerrnel@chromium.org)](https://crbug.com/1133009)
+	- [Issue 1127595: Chromium: Vulnerability reported in third_party/libxml (vomit...@appspot.gserviceaccount.com)](https://crbug.com/1127595)
+	- [Issue 1146025: Content-Security-Policy headers are lost when the page is restored from bfcache (altimin@chromium.org)](https://crbug.com/1146025)
+	- [Issue 1123035 (Permission denied.)](https://crbug.com/1123035)
+	- [Issue 1055608 (Permission denied.)](https://crbug.com/1055608)
+
+
+# 86.0.4240.198 (Wednesday, November 11, 2020) [2/2 bugs](https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop_11.html)
+- [$TBD][[1147206](https://crbug.com/1147206)] High CVE-2020-16013: Inappropriate implementation in V8. Reported by Anonymous on 2020-11-09
+	- [Issue 1147206 (Permission denied.)](https://crbug.com/1147206)
+- [$TBD][[1146709](https://crbug.com/1146709)] High CVE-2020-16017: Use after free in site isolation. Reported by Anonymous on 2020-11-07
+	- [Issue 1146709: Security: Browser UAF when detaching a provisional frame (dcheng@chromium.org)](https://crbug.com/1146709)
+
+# 86.0.4240.193 (Monday, November 9, 2020) [1/1 bugs](https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop_9.html)
+- [$N/A][[1146679](https://crbug.com/1146679)] High CVE-2020-16016: Inappropriate implementation in base. Reported by Rong Jian and Leecraso of 360 Alpha Lab on 2020-11-07
+	- [Issue 1146679: Security: WeakPtr checks are optimized out (adetaylor@google.com)](https://crbug.com/1146679)
+
+# 86.0.4240.183 (Monday, November 2, 2020) [9/10 bugs](https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html)
+- [$15000][[1138911](https://crbug.com/1138911)] High CVE-2020-16004: Use after free in user interface. Reported by Leecraso and Guang Gong of 360 Alpha Lab working with 360 BugCloud on 2020-10-15
+	- [Issue 1138911: Security: UAF in TabStrip (leecraso@gmail.com)](https://crbug.com/1138911)
+- [$15000][[1139398](https://crbug.com/1139398)] High CVE-2020-16005: Insufficient policy enforcement in ANGLE. Reported by Jaehun Jeong(@n3sk) of Theori on 2020-10-16
+	- [Issue 1139398: Security: [ANGLE] Invalid memory access in libglesv2!rx::IndexDataManager::streamIndexData (n...@nesk.kr)](https://crbug.com/1139398)
+- [$5000][[1133527](https://crbug.com/1133527)] High CVE-2020-16006: Inappropriate implementation in V8. Reported by Bill Parks on 2020-09-29
+	- [Issue 1133527: Security: Debug check failed: IsFound() || !holder_-\>HasFastProperties(isolate_) (albnt...@gmail.com)](https://crbug.com/1133527)
+- [$1000][[1125018](https://crbug.com/1125018)] High CVE-2020-16007: Insufficient data validation in installer. Reported by Abdelhamid Naceri (halov) on 2020-09-04
+	- [Issue 1125018: Arbitrary file deletion in google chrome updater in master/chrome/updater/installer.cc (ve23h...@gmail.com)](https://crbug.com/1125018)
+- [$TBD][[1134107](https://crbug.com/1134107)] High CVE-2020-16008: Stack buffer overflow in WebRTC. Reported by Tolya Korniltsev on 2020-10-01
+	- [Issue 1134107: Security: stack buffer overflow write in RtcEventLogEncoderLegacy::EncodeRtcpPacket (korni...@gmail.com)](https://crbug.com/1134107)
+- [$NA][[1143772](https://crbug.com/1143772)] High CVE-2020-16009: Inappropriate implementation in V8. Reported by Clement Lecigne of Google's Threat Analysis Group and Samuel Groß of Google Project Zero on 2020-10-29
+	- [Issue 1143772: Security: V8: Turbofan fails to deoptimize code after map deprecation, leading to type confusion (saelo@google.com)](https://crbug.com/1143772)
+- [$NA][[1144489](https://crbug.com/1144489)] High CVE-2020-16011: Heap buffer overflow in UI on Windows. Reported by Sergei Glazunov of Google Project Zero on 2020-11-01
+	- [Issue 1144489: Security: OSExchangeDataProviderWin::SetDragImage (adetaylor@google.com)](https://crbug.com/1144489)
+- [[1144284](https://crbug.com/1144284)] internal.
+	- [Issue 1140549: v8_wasm_compile_fuzzer: DCHECK failure in src.is_byte_register() in assembler-ia32.cc (ClusterFuzz)](https://crbug.com/1140549)
+	- [Issue 1137608: v8_wasm_compile_fuzzer: DCHECK failure in 0 \<= offset in assembler-arm.cc (ClusterFuzz)](https://crbug.com/1137608)
+
+
+# 86.0.4240.111 (Tuesday, October 20, 2020) [5/0 bugs](https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html)
+- [$500][[1125337](https://crbug.com/1125337)] High CVE-2020-16000: Inappropriate implementation in Blink. Reported by amaebi_jp on 2020-09-06
+	- [Issue 1125337: Portrait photos (taken by Pixel3aXL) with EXIF crash on Desktop (zubor...@gmail.com)](https://crbug.com/1125337)
+- [$TBD][[1135018](https://crbug.com/1135018)] High CVE-2020-16001: Use after free in media. Reported by Khalil Zhani on 2020-10-05
+	- [Issue 1135018: Security: UaF in TabSharingUI (chrom...@gmail.com)](https://crbug.com/1135018)
+- [$TBD][[1137630](https://crbug.com/1137630)] High CVE-2020-16002: Use after free in PDFium. Reported by Weipeng Jiang (@Krace) from Codesafe Team of Legendsec at Qi'anxin Group on 2020-10-13
+	- [Issue 1137630: Security: PDFium heap-use-after-free in CPWL_ListBox::~CPWL_ListBox() (merc....@gmail.com)](https://crbug.com/1137630)
+- [$NA][[1139963](https://crbug.com/1139963)] High CVE-2020-15999: Heap buffer overflow in Freetype. Reported by Sergei Glazunov of Google Project Zero on 2020-10-19
+	- [Issue 1139963: Security: Heap buffer overflow due to integer truncation in FreeType (glazunov@google.com)](https://crbug.com/1139963)
+- [$3000][[1134960](https://crbug.com/1134960)] Medium CVE-2020-16003: Use after free in printing. Reported by Khalil Zhani on 2020-10-04
+	- [Issue 1134960: Security: Use-after-free with using print dialog (chrom...@gmail.com)](https://crbug.com/1134960)
+
+# None (Monday, October 12, 2020) [0/0 bugs](https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_12.html)
+
+# 86.0.4240.75 (Tuesday, October 6, 2020) [38/35 bugs](https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop.html)
+- [$N/A][[1127322](https://crbug.com/1127322)] Critical CVE-2020-15967: Use after free in payments. Reported by Man Yue Mo of GitHub Security Lab on 2020-09-11
+	- [Issue 1127322: UaF in ServiceWorkerPaymentApp (m...@semmle.com)](https://crbug.com/1127322)
+- [$5000][[1126424](https://crbug.com/1126424)] High CVE-2020-15968: Use after free in Blink. Reported by Anonymous on 2020-09-09
+	- [Issue 1126424 (Permission denied.)](https://crbug.com/1126424)
+- [$500][[1124659](https://crbug.com/1124659)] High CVE-2020-15969: Use after free in WebRTC. Reported by Anonymous on 2020-09-03
+	- [Issue 1124659 (Permission denied.)](https://crbug.com/1124659)
+- [$N/A][[1108299](https://crbug.com/1108299)] High CVE-2020-15970: Use after free in NFC. Reported by Man Yue Mo of GitHub Security Lab on 2020-07-22
+	- [Issue 1108299: UaF in NFCHost::GetNFC (m...@semmle.com)](https://crbug.com/1108299)
+- [$N/A][[1114062](https://crbug.com/1114062)] High CVE-2020-15971: Use after free in printing. Reported by Jun Kokatsu, Microsoft Browser Vulnerability Research on 2020-08-07
+	- [Issue 1114062: heap-use-after-free in is_null (jun.k...@microsoft.com)](https://crbug.com/1114062)
+- [$TBD][[1115901](https://crbug.com/1115901)] High CVE-2020-15972: Use after free in audio. Reported by Anonymous on 2020-08-13
+	- [Issue 1115901 (Permission denied.)](https://crbug.com/1115901)
+- [$TBD][[1133671](https://crbug.com/1133671)] High CVE-2020-15990: Use after free in autofill. Reported by Rong Jian and Guang Gong of Alpha Lab, Qihoo 360 on 2020-09-30
+	- [Issue 1133671: Security: UAF in AutofillPopupControllerImpl::HandleKeyPressEvent (jtrro...@gmail.com)](https://crbug.com/1133671)
+- [$TBD][[1133688](https://crbug.com/1133688)] High CVE-2020-15991: Use after free in password manager. Reported by Rong Jian and Guang Gong of Alpha Lab, Qihoo 360 on 2020-09-30
+	- [Issue 1133688: Security: UAF in PasswordGenerationPopupControllerImpl::HandleKeyPressEvent (jtrro...@gmail.com)](https://crbug.com/1133688)
+- [$15000][[1106890](https://crbug.com/1106890)] Medium CVE-2020-15973: Insufficient policy enforcement in extensions. Reported by David Erceg on 2020-07-17
+	- [Issue 1106890: Security: Possible for apps to access http/https sites outside of a webview context via blob URLs (derce...@gmail.com)](https://crbug.com/1106890)
+- [$7500][[1104103](https://crbug.com/1104103)] Medium CVE-2020-15974: Integer overflow in Blink. Reported by Juno Im (junorouse) of Theori on 2020-07-10
+	- [Issue 1104103: Security: Insufficient data validation in deserialize TransformStream (junor...@gmail.com)](https://crbug.com/1104103)
+- [$7500][[1110800](https://crbug.com/1110800)] Medium CVE-2020-15975: Integer overflow in SwiftShader. Reported by Anonymous on 2020-07-29
+	- [Issue 1110800 (Permission denied.)](https://crbug.com/1110800)
+- [$7500][[1123522](https://crbug.com/1123522)] Medium CVE-2020-15976: Use after free in WebXR. Reported by YoungJoo Lee(@ashuu_lee) of Raon Whitehat on 2020-08-31
+	- [Issue 1123522: Security: Use-After-Poison in XRFrameProvider (borig...@gmail.com)](https://crbug.com/1123522)
+- [$5000][[1083278](https://crbug.com/1083278)] Medium CVE-2020-6557: Inappropriate implementation in networking. Reported by Matthias Gierlings and Marcus Brinkmann (NDS Ruhr-University Bochum) on 2020-05-15
+	- [Issue 1083278 (Permission denied.)](https://crbug.com/1083278)
+- [$5000][[1097724](https://crbug.com/1097724)] Medium CVE-2020-15977: Insufficient data validation in dialogs. Reported by Narendra Bhati (https://twitter.com/imnarendrabhati) on 2020-06-22
+	- [Issue 1097724 (Permission denied.)](https://crbug.com/1097724)
+- [$5000][[1116280](https://crbug.com/1116280)] Medium CVE-2020-15978: Insufficient data validation in navigation. Reported by Luan Herrera (@lbherrera_) on 2020-08-14
+	- [Issue 1116280: Self-XSS / Crash via window.open and delayed navigation (herre...@gmail.com)](https://crbug.com/1116280)
+- [$5000][[1127319](https://crbug.com/1127319)] Medium CVE-2020-15979: Inappropriate implementation in V8. Reported by Avihay Cohen @ SeraphicAlgorithms on 2020-09-11
+	- [Issue 1127319: Security: Debug check failed: IrOpcode::IsInlineeOpcode(node-\>opcode()). (b3nd3...@gmail.com)](https://crbug.com/1127319)
+- [$3000][[1092453](https://crbug.com/1092453)] Medium CVE-2020-15980: Insufficient policy enforcement in Intents. Reported by Yongke Wang(@Rudykewang) and Aryb1n(@aryb1n) of Tencent Security Xuanwu Lab (腾讯安全玄武实验室） on 2020-06-08
+	- [Issue 1092453: Restrictions on navigation to the content scheme can be bypassed on Android (mbarb...@chromium.org)](https://crbug.com/1092453)
+- [$3000][[1123023](https://crbug.com/1123023)] Medium CVE-2020-15981: Out of bounds read in audio. Reported by Christoph Guttandin on 2020-08-28
+	- [Issue 1123023: Web Audio DelayNode of an OfflineAudioContext adds one sample to the delay. (chris...@gmail.com)](https://crbug.com/1123023)
+- [$2000][[1039882](https://crbug.com/1039882)] Medium CVE-2020-15982: Side-channel information leakage in cache. Reported by Luan Herrera (@lbherrera_) on 2020-01-07
+	- [Issue 1039882: Leaking size of cross-origin resource by caching it twice (herre...@gmail.com)](https://crbug.com/1039882)
+- [$N/A][[1076786](https://crbug.com/1076786)] Medium CVE-2020-15983: Insufficient data validation in webUI. Reported by Jun Kokatsu, Microsoft Browser Vulnerability Research on 2020-04-30
+	- [Issue 1076786: Script Gadgets in chrome://oobe and chrome://assistant-optin through Polymer (jun.k...@microsoft.com)](https://crbug.com/1076786)
+- [$TBD][[1080395](https://crbug.com/1080395)] Medium CVE-2020-15984: Insufficient policy enforcement in Omnibox. Reported by Rayyan Bijoora on 2020-05-07
+	- [Issue 1080395: Android/iOS: URL spoofing using long sub-domain for blob:URL (rayya...@gmail.com)](https://crbug.com/1080395)
+- [$N/A][[1099276](https://crbug.com/1099276)] Medium CVE-2020-15985: Inappropriate implementation in Blink. Reported by Abdulrahman Alqabandi, Microsoft Browser Vulnerability Research on 2020-06-25
+	- [Issue 1099276: Security: Cursor hijacking mitigation bypass (abalq...@microsoft.com)](https://crbug.com/1099276)
+- [$N/A][[1100247](https://crbug.com/1100247)] Medium CVE-2020-15986: Integer overflow in media. Reported by Mark Brand of Google Project Zero on 2020-06-29
+	- [Issue 1100247: Security: Potential UAF in AndroidCdmFactory (markbrand@google.com)](https://crbug.com/1100247)
+- [$N/A][[1127774](https://crbug.com/1127774)] Medium CVE-2020-15987: Use after free in WebRTC. Reported by Philipp Hancke on 2020-09-14
+	- [Issue 1127774 (Permission denied.)](https://crbug.com/1127774)
+- [$N/A][[1110195](https://crbug.com/1110195)] Medium CVE-2020-15992: Insufficient policy enforcement in networking. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2020-07-28
+	- [Issue 1110195: Security: Method field allows injection of HTTP requests (ahuff...@microsoft.com)](https://crbug.com/1110195)
+- [$500][[1092518](https://crbug.com/1092518)] Low CVE-2020-15988: Insufficient policy enforcement in downloads. Reported by Samuel Attard on 2020-06-08
+	- [Issue 1092518: Security: OpenFileViaShell may open executables in the same directory with similar filenames unexpectedly  (samue...@gmail.com)](https://crbug.com/1092518)
+- [$N/A][[1108351](https://crbug.com/1108351)] Low CVE-2020-15989: Uninitialized Use in PDFium. Reported by Gareth Evans (Microsoft) on 2020-07-22
+	- [Issue 1108351: Security: Use of conditionally uninitialised stack variable may leak stack state (garet...@microsoft.com)](https://crbug.com/1108351)
+- [[1135164](https://crbug.com/1135164)] internal.
+	- [Issue 1128657: audio.captureStream() may allow cross-origin resource theft (cassew@google.com)](https://crbug.com/1128657)
+	- [Issue 1127496: Security: Screen share clickjacking secondary issue (adetaylor@chromium.org)](https://crbug.com/1127496)
+	- [Issue 1125199: heap-use-after-free : content::WebContentsImpl::SetNotWaitingForResponse (crash...@system.gserviceaccount.com)](https://crbug.com/1125199)
+	- [Issue 1107824: Security: 'unsafe-eval' in CSP is not properly enforced for default-src 'self' (terjanq@google.com)](https://crbug.com/1107824)
+	- [Issue 1106091: Security: Sending uninitialized bytes between processes (adetaylor@google.com)](https://crbug.com/1106091)
+	- [Issue 1100247: Security: Potential UAF in AndroidCdmFactory (markbrand@google.com)](https://crbug.com/1100247)
+	- [Issue 1099945: Security: Print compositor does not copy out of shared memory before attempting to deserialize SkPicture (dcheng@chromium.org)](https://crbug.com/1099945)
+	- [Issue 1092453: Restrictions on navigation to the content scheme can be bypassed on Android (mbarb...@chromium.org)](https://crbug.com/1092453)
+	- [Issue 1108091: Race condition in NativeFileSystemWriter close logic (mek@chromium.org)](https://crbug.com/1108091)
+	- [Issue 1100286: Chromium: Vulnerability reported in third_party/requests (vomit...@appspot.gserviceaccount.com)](https://crbug.com/1100286)
+	- [Issue 1012955: Security: Reader mode needs improved sanitization (creis@chromium.org)](https://crbug.com/1012955)
+
+
+# 85.0.4183.121 (Monday, September 21, 2020) [10/10 bugs](https://chromereleases.googleblog.com/2020/09/stable-channel-update-for-desktop_21.html)
+- [$15000][[1100136](https://crbug.com/1100136)] High CVE-2020-15960: Out of bounds read in storage. Reported by Anonymous on 2020-06-28
+	- [Issue 1100136: heap-buffer-overflow in storage::ObfuscatedFileUtilMemoryDelegate(browser process) (cdsrc...@gmail.com)](https://crbug.com/1100136)
+- [$15000][[1114636](https://crbug.com/1114636)] High CVE-2020-15961: Insufficient policy enforcement in extensions. Reported by David Erceg on 2020-08-10
+	- [Issue 1114636: Security: Possible for extension to escape sandbox via Target.setAutoAttach and Target.sendMessageToTarget (derce...@gmail.com)](https://crbug.com/1114636)
+- [$10000][[1121836](https://crbug.com/1121836)] High CVE-2020-15962: Insufficient policy enforcement in serial. Reported by Leecraso and Guang Gong of 360 Alpha Lab working with 360 BugCloud on 2020-08-26
+	- [Issue 1121836: Security: HeapOverflow in SerialHandle (leecraso@gmail.com)](https://crbug.com/1121836)
+- [$5000][[1113558](https://crbug.com/1113558)] High CVE-2020-15963: Insufficient policy enforcement in extensions. Reported by David Erceg on 2020-08-06
+	- [Issue 1113558: Security: Possible to navigate frames not attached to the debugger using the chrome.debugger API (derce...@gmail.com)](https://crbug.com/1113558)
+- [$TBD][[1126249](https://crbug.com/1126249)] High CVE-2020-15965: Out of bounds write in V8. Reported by Lucas Pinheiro, Microsoft Browser Vulnerability Research on 2020-09-08
+	- [Issue 1126249: Security: DCHECK failed: 0 \<= length && length \<= kMaxSafeInteger (lupin...@microsoft.com)](https://crbug.com/1126249)
+- [$TBD][[1113565](https://crbug.com/1113565)] Medium CVE-2020-15966: Insufficient policy enforcement in extensions. Reported by David Erceg on 2020-08-06
+	- [Issue 1113565: Security: Extensions can use chrome.debugger API to access contents of local files (derce...@gmail.com)](https://crbug.com/1113565)
+- [$TBD][[1121414](https://crbug.com/1121414)] Low CVE-2020-15964: Insufficient data validation in media. Reported by Woojin Oh(@pwn_expoit) of STEALIEN on 2020-08-25
+	- [Issue 1121414: Security: Missing IsContextDestroyed in MediaKeys (rapid...@gmail.com)](https://crbug.com/1121414)
+- [[1130676](https://crbug.com/1130676)] internal.
+	- [Issue 1111149: video.captureStream() may allow cross-origin resource theft (sande...@chromium.org)](https://crbug.com/1111149)
+	- [Issue 1106612: heap-use-after-free : ?StartAutoScrollAnimation@ScrollbarController@cc@@QEAAXMPEBVScrollbarLayerImplBase@2@W4ScrollbarPart@2@@Z (crash...@system.gserviceaccount.com)](https://crbug.com/1106612)
+	- [Issue 1122059 (Permission denied.)](https://crbug.com/1122059)
+
+
+# 85.0.4183.102 (Tuesday, September 8, 2020) [5/5 bugs](https://chromereleases.googleblog.com/2020/09/stable-channel-update-for-desktop.html)
+- [$20000][[1116304](https://crbug.com/1116304)] High CVE-2020-6573: Use after free in video. Reported by Leecraso and Guang Gong of 360 Alpha Lab working with 360 BugCloud on 2020-08-14
+	- [Issue 1116304: Security: UAF in VideoCapture (leecraso@gmail.com)](https://crbug.com/1116304)
+- [$10000][[1102196](https://crbug.com/1102196)] High CVE-2020-6574: Insufficient policy enforcement in installer. Reported by CodeColorist of Ant-Financial LightYear Labs on 2020-07-05
+	- [Issue 1102196: Security: Keystone for macOS should use auditToken to validate incoming XPC message (codec...@gmail.com)](https://crbug.com/1102196)
+- [$TBD][[1081874](https://crbug.com/1081874)] High CVE-2020-6575: Race in Mojo. Reported by Microsoft on 2020-05-12
+	- [Issue 1081874: Double free on NodeChannel (ssm...@microsoft.com)](https://crbug.com/1081874)
+- [$TBD][[1111737](https://crbug.com/1111737)] High CVE-2020-6576: Use after free in offscreen canvas. Reported by Looben Yang on 2020-07-31
+	- [Issue 1111737: Security: OffscreenCanvas - Use After Free in OffscreenCanvasRenderingContext2D::DrawTextInternal() (loobe...@gmail.com)](https://crbug.com/1111737)
+- [$TBD][[1122684](https://crbug.com/1122684)] High CVE-2020-15959: Insufficient policy enforcement in networking. Reported by Eric Lawrence of Microsoft on 2020-08-27
+	- [Issue 1122684 (Permission denied.)](https://crbug.com/1122684)
+
 # 85.0.4183.83 (Tuesday, August 25, 2020) [20/20 bugs](https://chromereleases.googleblog.com/2020/08/stable-channel-update-for-desktop_25.html)
 - [$N/A][[1109120](https://crbug.com/1109120)] High CVE-2020-6558: Insufficient policy enforcement in iOS. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2020-07-24
-	- [Issue 1109120 (Permission denied.)](https://crbug.com/1109120)
+	- [Issue 1109120: Security: (UXSS) Long-Press Open Runs Javascript Links from Child in Parent Origin / Page (ahuff...@microsoft.com)](https://crbug.com/1109120)
 - [$TBD][[1116706](https://crbug.com/1116706)] High CVE-2020-6559: Use after free in presentation API. Reported by Liu Wei and Wu Zekai of Tencent Security Xuanwu Lab on 2020-08-15
-	- [Issue 1116706 (Permission denied.)](https://crbug.com/1116706)
+	- [Issue 1116706: Security: Use After Free in PresentationConnectionCallbacks::OnSuccess (lw17q...@gmail.com)](https://crbug.com/1116706)
 - [$5000][[1108181](https://crbug.com/1108181)] Medium CVE-2020-6560: Insufficient policy enforcement in autofill. Reported by Nadja Ungethuem from www.unnex.de on 2020-07-22
-	- [Issue 1108181 (Permission denied.)](https://crbug.com/1108181)
+	- [Issue 1108181: Security: bypas of the protection of input field cache (gcun...@gmail.com)](https://crbug.com/1108181)
 - [$1000][[932892](https://crbug.com/932892)] Medium CVE-2020-6561: Inappropriate implementation in Content Security Policy. Reported by Rob Wu on 2019-02-16
 	- [Issue 932892: Security: CSP violation reports leak the destination origin of a blocked redirect in the blocked-uri / blockedURI field (rob@robwu.nl)](https://crbug.com/932892)
 - [$1000][[1086845](https://crbug.com/1086845)] Medium CVE-2020-6562: Insufficient policy enforcement in Blink. Reported by Masato Kinugawa on 2020-05-27
-	- [Issue 1086845 (Permission denied.)](https://crbug.com/1086845)
+	- [Issue 1086845: Security: Blob ignores charset specified in type attribute (masat...@gmail.com)](https://crbug.com/1086845)
 - [$1000][[1104628](https://crbug.com/1104628)] Medium CVE-2020-6563: Insufficient policy enforcement in intent handling. Reported by Pedro Oliveira on 2020-07-12
-	- [Issue 1104628 (Permission denied.)](https://crbug.com/1104628)
+	- [Issue 1104628: Security: Private file upload (data exfiltration) (kan...@gmail.com)](https://crbug.com/1104628)
 - [$500][[841622](https://crbug.com/841622)] Medium CVE-2020-6564: Incorrect security UI in permissions. Reported by Khalil Zhani on 2018-05-10
 	- [Issue 841622 (Permission denied.)](https://crbug.com/841622)
 - [$500][[1029907](https://crbug.com/1029907)] Medium CVE-2020-6565: Incorrect security UI in Omnibox. Reported by Khalil Zhani on 2019-12-02
-	- [Issue 1029907 (Permission denied.)](https://crbug.com/1029907)
+	- [Issue 1029907: Security: URL bar spoofing with prompt dialog on iOS (chrom...@gmail.com)](https://crbug.com/1029907)
 - [$N/A][[1065264](https://crbug.com/1065264)] Medium CVE-2020-6566: Insufficient policy enforcement in media. Reported by Jun Kokatsu, Microsoft Browser Vulnerability Research on 2020-03-27
-	- [Issue 1065264 (Permission denied.)](https://crbug.com/1065264)
+	- [Issue 1065264: No validation of origin in initializing CDM (jun.k...@microsoft.com)](https://crbug.com/1065264)
 - [$500][[937179](https://crbug.com/937179)] Low CVE-2020-6567: Insufficient validation of untrusted input in command line handling. Reported by Joshua Graham of TSS on 2019-03-01
 	- [Issue 937179 (Permission denied.)](https://crbug.com/937179)
 - [$500][[1092451](https://crbug.com/1092451)] Low CVE-2020-6568: Insufficient policy enforcement in intent handling. Reported by Yongke Wang(@Rudykewang) and Aryb1n(@aryb1n) of Tencent Security Xuanwu Lab (腾讯安全玄武实验室） on 2020-06-08
-	- [Issue 1092451 (Permission denied.)](https://crbug.com/1092451)
+	- [Issue 1092451: Multiple-file download restrictions can be bypassed using Android intents (mbarb...@chromium.org)](https://crbug.com/1092451)
 - [$N/A][[995732](https://crbug.com/995732)] Low CVE-2020-6569: Integer overflow in WebUSB. Reported by guaixiaomei on 2019-08-20
-	- [Issue 995732 (Permission denied.)](https://crbug.com/995732)
+	- [Issue 995732: Potential out of bounds write vulnerability in webusb (usb_device_handle_usbfs.cc) (Linux 32bit) (guaix...@gmail.com)](https://crbug.com/995732)
 - [$N/A][[1084699](https://crbug.com/1084699)] Low CVE-2020-6570: Side-channel information leakage in WebRTC. Reported by Signal/Tenable on 2020-05-19
-	- [Issue 1084699 (Permission denied.)](https://crbug.com/1084699)
+	- [Issue 1084699: [WebRTC] Remote ICE Candidate Hostname Lookup Privacy Issue (a_deleted_user)](https://crbug.com/1084699)
 - [$N/A][[1085315](https://crbug.com/1085315)] Low CVE-2020-6571: Incorrect security UI in Omnibox. Reported by Rayyan Bijoora on 2020-05-21
 	- [Issue 1085315: URL spoofing using 'GURMUKHI LETTER RRA' (U+0A5C) (rayyan...@gmail.com)](https://crbug.com/1085315)
 - [[1121299](https://crbug.com/1121299)] internal.
-	- [Issue 1108639 (Permission denied.)](https://crbug.com/1108639)
-	- [Issue 1108511 (Permission denied.)](https://crbug.com/1108511)
-	- [Issue 1102137 (Permission denied.)](https://crbug.com/1102137)
+	- [Issue 1108639: openh264 is vulnerable to a known vulnerability  (ochang@google.com)](https://crbug.com/1108639)
+	- [Issue 1108511: heap-use-after-free : AdsPageLoadMetricsObserver::FrameDisplayStateChanged (crash...@system.gserviceaccount.com)](https://crbug.com/1108511)
+	- [Issue 1102137: Security DCHECK failure: !object || (object-\>IsLayoutMultiColumnSet()) in layout_multi_column_set.h (ClusterFuzz)](https://crbug.com/1102137)
 	- [Issue 1098860 (Permission denied.)](https://crbug.com/1098860)
-	- [Issue 1072841 (Permission denied.)](https://crbug.com/1072841)
-	- [Issue 1094442 (Permission denied.)](https://crbug.com/1094442)
+	- [Issue 1072841: heap-use-after-free : local_discovery::ServiceWatcherImplMac::NetServiceBrowserContainer::~NetServiceBrowserContainer (crash...@system.gserviceaccount.com)](https://crbug.com/1072841)
+	- [Issue 1094442: Background tab can launch PWA or play store page when interacting with any page. (mthiesse@chromium.org)](https://crbug.com/1094442)
 
 
 # 84.0.4147.135 (Tuesday, August 18, 2020) [1/1 bugs](https://chromereleases.googleblog.com/2020/08/stable-channel-update-for-desktop_18.html)
 - [$TBD][[1115345](https://crbug.com/1115345)] High CVE-2020-6556: Heap buffer overflow in SwiftShader. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2020-08-12
-	- [Issue 1115345 (Permission denied.)](https://crbug.com/1115345)
+	- [Issue 1115345: Security: Heap-Buffer-Overflow in libGLESv2 Library - es2::Device::stretchRect  (ahuff...@microsoft.com)](https://crbug.com/1115345)
 
 # 84.0.4147.125 (Monday, August 10, 2020) [15/15 bugs](https://chromereleases.googleblog.com/2020/08/stable-channel-update-for-desktop.html)
 - [$10000][[1107433](https://crbug.com/1107433)] High CVE-2020-6542: Use after free in ANGLE. Reported by Piotr Bania of Cisco Talos on 2020-07-20
-	- [Issue 1107433 (Permission denied.)](https://crbug.com/1107433)
+	- [Issue 1107433: Google Chrome WebGL Buffer11::getBufferStorage Code Execution Vulnerability (vulnd...@sourcefire.com)](https://crbug.com/1107433)
 - [$7500][[1104046](https://crbug.com/1104046)] High CVE-2020-6543: Use after free in task scheduling. Reported by Looben Yang on 2020-07-10
-	- [Issue 1104046 (Permission denied.)](https://crbug.com/1104046)
+	- [Issue 1104046: Security: Task Scheduling - Use After Free in TaskQueueImpl::CreateTaskRunner(). (loobe...@gmail.com)](https://crbug.com/1104046)
 - [$7500][[1108497](https://crbug.com/1108497)] High CVE-2020-6544: Use after free in media. Reported by Tim Becker of Theori on 2020-07-22
-	- [Issue 1108497 (Permission denied.)](https://crbug.com/1108497)
+	- [Issue 1108497: Security: UAF in RemotePlayback due to iterator invalidation (Android only) (tjbec...@theori.io)](https://crbug.com/1108497)
 - [$5000][[1095584](https://crbug.com/1095584)] High CVE-2020-6545: Use after free in audio. Reported by Anonymous on 2020-06-16
 	- [Issue 1095584 (Permission denied.)](https://crbug.com/1095584)
 - [$TBD][[1100280](https://crbug.com/1100280)] High CVE-2020-6546: Inappropriate implementation in installer. Reported by Andrew Hess (any1) on 2020-06-29
-	- [Issue 1100280 (Permission denied.)](https://crbug.com/1100280)
+	- [Issue 1100280: Security: Chrome Update - Arbitrary Folder Delete // Privilege Escalation (hess....@gmail.com)](https://crbug.com/1100280)
 - [$TBD][[1102153](https://crbug.com/1102153)] High CVE-2020-6547: Incorrect security UI in media. Reported by David Albert on 2020-07-05
-	- [Issue 1102153 (Permission denied.)](https://crbug.com/1102153)
+	- [Issue 1102153: Security: Information disclosure through screenshare with clickjacking (garko...@gmail.com)](https://crbug.com/1102153)
 - [$TBD][[1103827](https://crbug.com/1103827)] High CVE-2020-6548: Heap buffer overflow in Skia. Reported by Choongwoo Han, Microsoft Browser Vulnerability Research on 2020-07-09
-	- [Issue 1103827 (Permission denied.)](https://crbug.com/1103827)
+	- [Issue 1103827: Security: heap-buffer-overflow in TextDetection detect (choon...@microsoft.com)](https://crbug.com/1103827)
 - [$N/A][[1105426](https://crbug.com/1105426)] High CVE-2020-6549: Use after free in media. Reported by Sergei Glazunov of Google Project Zero on 2020-07-14
-	- [Issue 1105426 (Permission denied.)](https://crbug.com/1105426)
+	- [Issue 1105426: Security: Use-after-free in MediaElementEventListener::UpdateSources (glazunov@google.com)](https://crbug.com/1105426)
 - [$N/A][[1106682](https://crbug.com/1106682)] High CVE-2020-6550: Use after free in IndexedDB. Reported by Sergei Glazunov of Google Project Zero on 2020-07-17
-	- [Issue 1106682 (Permission denied.)](https://crbug.com/1106682)
+	- [Issue 1106682: Security: Use-after-free in WebIDBGetDBNamesCallbacksImpl::SuccessNamesAndVersionsList (glazunov@google.com)](https://crbug.com/1106682)
 - [$N/A][[1107815](https://crbug.com/1107815)] High CVE-2020-6551: Use after free in WebXR. Reported by Sergei Glazunov of Google Project Zero on 2020-07-21
-	- [Issue 1107815 (Permission denied.)](https://crbug.com/1107815)
+	- [Issue 1107815: Security: Use-after-free in XRSystem::FocusedFrameChanged and FocusController::NotifyFocusChangedObservers (glazunov@google.com)](https://crbug.com/1107815)
 - [$TBD][[1108518](https://crbug.com/1108518)] High CVE-2020-6552: Use after free in Blink. Reported by Tim Becker of Theori on 2020-07-22
-	- [Issue 1108518 (Permission denied.)](https://crbug.com/1108518)
+	- [Issue 1108518: Security: UAF in ScriptPromiseProperty due to iterator invalidation (tjbec...@theori.io)](https://crbug.com/1108518)
 - [$TBD][[1111307](https://crbug.com/1111307)] High CVE-2020-6553: Use after free in offline mode. Reported by Alison Huffman, Microsoft Browser Vulnerability Research on 2020-07-30
-	- [Issue 1111307 (Permission denied.)](https://crbug.com/1111307)
+	- [Issue 1111307: Security: UAF in OfflinePageTabHelper::LoadData (ahuff...@microsoft.com)](https://crbug.com/1111307)
 - [$5000][[1094235](https://crbug.com/1094235)] Medium CVE-2020-6554: Use after free in extensions. Reported by Anonymous on 2020-06-12
-	- [Issue 1094235 (Permission denied.)](https://crbug.com/1094235)
+	- [Issue 1094235: uaf in extensions (cdsrc...@gmail.com)](https://crbug.com/1094235)
 - [$1000][[1105202](https://crbug.com/1105202)] Medium CVE-2020-6555: Out of bounds read in WebGL. Reported by Marcin Towalski of Cisco Talos on 2020-07-13
-	- [Issue 1105202 (Permission denied.)](https://crbug.com/1105202)
+	- [Issue 1105202: Security: Google Chrome DrawElementsInstanced Information Leak Vulnerability (TALOS-2020-1123) (vulnd...@sourcefire.com)](https://crbug.com/1105202)
 - [[1114335](https://crbug.com/1114335)] internal.
-	- [Issue 1108116 (Permission denied.)](https://crbug.com/1108116)
+	- [Issue 1108116: heap-use-after-free : autofill::FormStructure::GetFieldTypePredictions (crash...@system.gserviceaccount.com)](https://crbug.com/1108116)
 
 
 # 84.0.4147.105 (Monday, July 27, 2020) [8/8 bugs](https://chromereleases.googleblog.com/2020/07/stable-channel-update-for-desktop_27.html)
 - [$10000][[1105318](https://crbug.com/1105318)] High CVE-2020-6537: Type Confusion in V8. Reported by Alphalaab on 2020-07-14
 	- [Issue 1105318 (Permission denied.)](https://crbug.com/1105318)
 - [$N/A][[1096677](https://crbug.com/1096677)] High CVE-2020-6538: Inappropriate implementation in WebView. Reported by Yongke Wang(@Rudykewang) and Aryb1n(@aryb1n) of Tencent Security Xuanwu Lab (腾讯安全玄武实验室） on 2020-06-18
-	- [Issue 1096677 (Permission denied.)](https://crbug.com/1096677)
+	- [Issue 1096677: WebView: Cross-domain content can be fetched from resources loaded by the content scheme (adetaylor@google.com)](https://crbug.com/1096677)
 - [$TBD][[1104061](https://crbug.com/1104061)] High CVE-2020-6532: Use after free in SCTP. Reported by Anonymous on 2020-07-09
-	- [Issue 1104061 (Permission denied.)](https://crbug.com/1104061)
+	- [Issue 1104061: UAF in sctp_transport (cdsrc...@gmail.com)](https://crbug.com/1104061)
 - [$N/A][[1105635](https://crbug.com/1105635)] High CVE-2020-6539: Use after free in CSS. Reported by Oriol Brufau on 2020-07-14
-	- [Issue 1105635 (Permission denied.)](https://crbug.com/1105635)
+	- [Issue 1105635: Security: use-after-poison when using CSS var() with revert as fallback (obru...@igalia.com)](https://crbug.com/1105635)
 - [$TBD][[1105720](https://crbug.com/1105720)] High CVE-2020-6540: Heap buffer overflow in Skia. Reported by Zhen Zhou of NSFOCUS Security Team on 2020-07-15
-	- [Issue 1105720 (Permission denied.)](https://crbug.com/1105720)
+	- [Issue 1105720: Security: heap-buffer-overflow in SkReader32::readInt (zhouz...@gmail.com)](https://crbug.com/1105720)
 - [$N/A][[1106773](https://crbug.com/1106773)] High CVE-2020-6541: Use after free in WebUSB. Reported by Sergei Glazunov of Google Project Zero on 2020-07-17
-	- [Issue 1106773 (Permission denied.)](https://crbug.com/1106773)
+	- [Issue 1106773: Security: Use-after-free in USB::OnServiceConnectionError (glazunov@google.com)](https://crbug.com/1106773)
 - [[1109361](https://crbug.com/1109361)] internal.
-	- [Issue 1102408 (Permission denied.)](https://crbug.com/1102408)
-	- [Issue 1102054 (Permission denied.)](https://crbug.com/1102054)
+	- [Issue 1102408: Heap-use-after-free in blink::LayoutBox::FindAutoscrollable (ClusterFuzz)](https://crbug.com/1102408)
+	- [Issue 1102054: Disable (or fix) YUV image decoding before M86 due to use after free (andrescj@chromium.org)](https://crbug.com/1102054)
 
 
 # None (Tuesday, July 14, 2020) [39/38 bugs](https://chromereleases.googleblog.com/2020/07/stable-channel-update-for-desktop.html)
 - [$TBD][[1103195](https://crbug.com/1103195)] Critical CVE-2020-6510: Heap buffer overflow in background fetch. Reported by Leecraso and Guang Gong of 360 Alpha Lab working with 360 BugCloud on 2020-07-08
-	- [Issue 1103195 (Permission denied.)](https://crbug.com/1103195)
+	- [Issue 1103195: Security: HeapOverflow in BackgroundFetch (leecraso@gmail.com)](https://crbug.com/1103195)
 - [$5000][[1074317](https://crbug.com/1074317)] High CVE-2020-6511: Side-channel information leakage in content security policy. Reported by Mikhail Oblozhikhin on 2020-04-24
 	- [Issue 1074317: Security: The CSP reports and stacktraces of errors leaks post-redirect URL for \<script\> (obmih...@gmail.com)](https://crbug.com/1074317)
 - [$5000][[1084820](https://crbug.com/1084820)] High CVE-2020-6512: Type Confusion in V8. Reported by nocma, leogan, cheneyxu of WeChat Open Platform Security Team on 2020-05-20
-	- [Issue 1084820 (Permission denied.)](https://crbug.com/1084820)
+	- [Issue 1084820: DCHECK failure in value.IsHeapObject() in objects-debug.cc (wxmp...@gmail.com)](https://crbug.com/1084820)
 - [$2000][[1091404](https://crbug.com/1091404)] High CVE-2020-6513: Heap buffer overflow in PDFium. Reported by Aleksandar Nikolic of Cisco Talos on 2020-06-04
-	- [Issue 1091404 (Permission denied.)](https://crbug.com/1091404)
+	- [Issue 1091404: Google Chrome PDFium Javascript Active Document Memory Corruption Vulnerability -  TALOS-2020-1092   (regiw...@sourcefire.com)](https://crbug.com/1091404)
 - [$TBD][[1076703](https://crbug.com/1076703)] High CVE-2020-6514: Inappropriate implementation in WebRTC. Reported by Natalie Silvanovich of Google Project Zero on 2020-04-30
 	- [Issue 1076703 (Permission denied.)](https://crbug.com/1076703)
 - [$TBD][[1082755](https://crbug.com/1082755)] High CVE-2020-6515: Use after free in tab strip. Reported by DDV_UA on 2020-05-14
-	- [Issue 1082755 (Permission denied.)](https://crbug.com/1082755)
+	- [Issue 1082755: Heap UaF in TabStrip::CloseTab (dmitr...@gmail.com)](https://crbug.com/1082755)
 - [$TBD][[1092449](https://crbug.com/1092449)] High CVE-2020-6516: Policy bypass in CORS. Reported by Yongke Wang(@Rudykewang) and Aryb1n(@aryb1n) of Tencent Security Xuanwu Lab (腾讯安全玄武实验室） on 2020-06-08
 	- [Issue 1092449 (Permission denied.)](https://crbug.com/1092449)
 - [$TBD][[1095560](https://crbug.com/1095560)] High CVE-2020-6517: Heap buffer overflow in history. Reported by ZeKai Wu (@hellowuzekai) of Tencent Security Xuanwu Lab on 2020-06-16
-	- [Issue 1095560 (Permission denied.)](https://crbug.com/1095560)
+	- [Issue 1095560: Security: heap-buffer-overflow on media_history::MediaHistoryKeyedService::OnURLsDeleted (hello...@gmail.com)](https://crbug.com/1095560)
 - [$3000][[986051](https://crbug.com/986051)] Medium CVE-2020-6518: Use after free in developer tools. Reported by David Erceg on 2019-07-20
 	- [Issue 986051: Security: Use-after-free of CommandLineAPIScope object (derce...@gmail.com)](https://crbug.com/986051)
 - [$3000][[1064676](https://crbug.com/1064676)] Medium CVE-2020-6519: Policy bypass in CSP. Reported by Gal Weizman (@WeizmanGal) of PerimeterX on 2020-03-25
 	- [Issue 1064676: full CSP bypass while evaluating a javascript-URL in iframe. (g...@perimeterx.com)](https://crbug.com/1064676)
 - [$1000][[1092274](https://crbug.com/1092274)] Medium CVE-2020-6520: Heap buffer overflow in Skia. Reported by Zhen Zhou of NSFOCUS Security Team on 2020-06-08
-	- [Issue 1092274 (Permission denied.)](https://crbug.com/1092274)
+	- [Issue 1092274: Security: global-buffer-overflow in bytesPerVertex (zhouz...@gmail.com)](https://crbug.com/1092274)
 - [$500][[1075734](https://crbug.com/1075734)] Medium CVE-2020-6521: Side-channel information leakage in autofill. Reported by Xu Lin (University of Illinois at Chicago), Panagiotis Ilia (University of Illinois at Chicago), Jason Polakis (University of Illinois at Chicago) on 2020-04-27
-	- [Issue 1075734 (Permission denied.)](https://crbug.com/1075734)
+	- [Issue 1075734: Security: Side-channel attack against Autofill Preview that can steal user's data (e.g., credit card number). (jpola...@gmail.com)](https://crbug.com/1075734)
 - [$TBD][[1052093](https://crbug.com/1052093)] Medium CVE-2020-6522: Inappropriate implementation in external protocol handlers. Reported by Eric Lawrence of Microsoft on 2020-02-13
 	- [Issue 1052093: Security: Custom Scheme escaping bypassed if a scheme is in the URLWhitelist (ericlaw@microsoft.com)](https://crbug.com/1052093)
 - [$N/A][[1080481](https://crbug.com/1080481)] Medium CVE-2020-6523: Out of bounds write in Skia. Reported by Liu Wei and Wu Zekai of Tencent Security Xuanwu Lab on 2020-05-08
-	- [Issue 1080481 (Permission denied.)](https://crbug.com/1080481)
+	- [Issue 1080481: Security: Skia: Integer Overflow in GrTextBlob::Make (lw17q...@gmail.com)](https://crbug.com/1080481)
 - [$N/A][[1081722](https://crbug.com/1081722)] Medium CVE-2020-6524: Heap buffer overflow in WebAudio. Reported by Sung Ta (@Mipu94) of SEFCOM Lab, Arizona State University on 2020-05-12
 	- [Issue 1081722: Security: memcpy-param-overlap in AudioBuffer::copyFromChannel (tadinhs...@gmail.com)](https://crbug.com/1081722)
 - [$N/A][[1091670](https://crbug.com/1091670)] Medium CVE-2020-6525: Heap buffer overflow in Skia. Reported by Zhen Zhou of NSFOCUS Security Team on 2020-06-05
-	- [Issue 1091670 (Permission denied.)](https://crbug.com/1091670)
+	- [Issue 1091670: Security:  heap-buffer-overflow in sk_careful_memcpy (zhouz...@gmail.com)](https://crbug.com/1091670)
 - [$1000][[1074340](https://crbug.com/1074340)] Low CVE-2020-6526: Inappropriate implementation in iframe sandbox. Reported by Jonathan Kingston on 2020-04-24
 	- [Issue 1074340: Security: javascript URI sandbox flags aren't propagated in a blank string case (kingston...@gmail.com)](https://crbug.com/1074340)
 - [$500][[992698](https://crbug.com/992698)] Low CVE-2020-6527: Insufficient policy enforcement in CSP. Reported by Zhong Zhaochen of andsecurity.cn on 2019-08-10
@@ -145,32 +864,32 @@
 - [$TBD][[1080934](https://crbug.com/1080934)] Low CVE-2020-6536: Incorrect security UI in PWAs. Reported by Zhiyang Zeng of Tencent security platform department on 2020-05-09
 	- [Issue 1080934 (Permission denied.)](https://crbug.com/1080934)
 - [[1105224](https://crbug.com/1105224)] internal.
-	- [Issue 1092449 (Permission denied.)](https://crbug.com/1092449)
-	- [Issue 1090543 (Permission denied.)](https://crbug.com/1090543)
-	- [Issue 1087629 (Permission denied.)](https://crbug.com/1087629)
-	- [Issue 1076703 (Permission denied.)](https://crbug.com/1076703)
+	- [Issue 1092449: Cross-domain content can be fetched from resources loaded by the content scheme (mbarb...@chromium.org)](https://crbug.com/1092449)
+	- [Issue 1090543: heap-use-after-free : content::NavigationRequest::OnWillProcessResponseProcessed (crash...@system.gserviceaccount.com)](https://crbug.com/1090543)
+	- [Issue 1087629: Upgrade SQLite to 3.32.1 (huangdarwin@chromium.org)](https://crbug.com/1087629)
+	- [Issue 1076703: Security: WebRTC: usrsctp is called with pointer as network address (natashenka@google.com)](https://crbug.com/1076703)
 	- [Issue 1065122: heap-use-after-free : ui::AXTreeSerializer\<blink::WebAXObject,content::AXContentNodeData,content::AXContentTreeData\>::LeastCommonAncestor (crash-fe...@system.gserviceaccount.com)](https://crbug.com/1065122)
-	- [Issue 1094453 (Permission denied.)](https://crbug.com/1094453)
+	- [Issue 1094453: Security: Memory stomper in InfoBarManager::RemoveInfoBarInternal() (rohitrao@chromium.org)](https://crbug.com/1094453)
 	- [Issue 1072165: libjingle_xmpp_xmlparser_fuzzer: Incorrect-function-pointer-type with empty stacktrace (ClusterFuzz)](https://crbug.com/1072165)
 	- [Issue 1067869: Chromium: Vulnerability reported in third_party/guava (vomit.go...@appspot.gserviceaccount.com)](https://crbug.com/1067869)
 	- [Issue 1065731: audio_decoder_fuzzer: Use-of-uninitialized-value in amr_read_header (ClusterFuzz)](https://crbug.com/1065731)
 	- [Issue 1052492: Use-of-uninitialized-value in blink::ImageDataBuffer::ImageDataBuffer (ClusterFuzz)](https://crbug.com/1052492)
 	- [Issue 961644: Heap-buffer-overflow in courgette::Read32LittleEndian (ClusterFuzz)](https://crbug.com/961644)
-	- [Issue 1067854 (Permission denied.)](https://crbug.com/1067854)
+	- [Issue 1067854: Chromium: Vulnerability reported in third_party/binutils (vomit...@appspot.gserviceaccount.com)](https://crbug.com/1067854)
 	- [Issue 1029569: sqlite3_shadow_table_fuzzer: ASSERT: nDoclist\>0 (ClusterFuzz)](https://crbug.com/1029569)
 
 
 # 83.0.4103.116 (Monday, June 22, 2020) [1/2 bugs](https://chromereleases.googleblog.com/2020/06/stable-channel-update-for-desktop_22.html)
 - [$TBD][[1092308](https://crbug.com/1092308)] High CVE-2020-6509: Use after free in extensions. Reported by Anonymous on 2020-06-08
-	- [Issue 1092308 (Permission denied.)](https://crbug.com/1092308)
+	- [Issue 1092308: uaf in extensions (cdsrc...@gmail.com)](https://crbug.com/1092308)
 
 # 83.0.4103.106 (Monday, June 15, 2020) [3/4 bugs](https://chromereleases.googleblog.com/2020/06/stable-channel-update-for-desktop_15.html)
 - [$15000][[1081350](https://crbug.com/1081350)] High CVE-2020-6505: Use after free in speech. Reported by Khalil Zhani on 2020-05-11
-	- [Issue 1081350 (Permission denied.)](https://crbug.com/1081350)
+	- [Issue 1081350: Security: Browser_crash - heap-use-after-free in extensions::ChromeExtensionsBrowserClient::GetOriginalContext(content::BrowserContext*)  (chrom...@gmail.com)](https://crbug.com/1081350)
 - [$15000][[1083819](https://crbug.com/1083819)] High CVE-2020-6506: Insufficient policy enforcement in WebView. Reported by Alesandro Ortiz on 2020-05-18
-	- [Issue 1083819 (Permission denied.)](https://crbug.com/1083819)
+	- [Issue 1083819: Security: Android WebView: iframe on different origin can execute arbitrary JavaScript in top document via window.open() or links with _blank target (alesa...@alesandroortiz.com)](https://crbug.com/1083819)
 - [$N/A][[1086890](https://crbug.com/1086890)] High CVE-2020-6507: Out of bounds write in V8. Reported by Sergei Glazunov of Google Project Zero on 2020-05-27
-	- [Issue 1086890 (Permission denied.)](https://crbug.com/1086890)
+	- [Issue 1086890: Security: Missing array size check in NewFixedArray (glazunov@google.com)](https://crbug.com/1086890)
 
 # 83.0.4103.97 (Wednesday, June 3, 2020) [6/5 bugs](https://chromereleases.googleblog.com/2020/06/stable-channel-update-for-desktop.html)
 - [$20000][[1082105](https://crbug.com/1082105)] High CVE-2020-6493: Use after free in WebAuthentication. Reported by Anonymous on 2020-05-13
@@ -178,7 +897,7 @@
 - [$7500][[1083972](https://crbug.com/1083972)] High CVE-2020-6494: Incorrect security UI in payments. Reported by Juho Nurminen on 2020-05-18
 	- [Issue 1083972 (Permission denied.)](https://crbug.com/1083972)
 - [$TBD][[1072116](https://crbug.com/1072116)] High CVE-2020-6495: Insufficient policy enforcement in developer tools. Reported by David Erceg on 2020-04-18
-	- [Issue 1072116 (Permission denied.)](https://crbug.com/1072116)
+	- [Issue 1072116: Security: Possible for extensions to escape sandbox via devtools watch expressions (derce...@gmail.com)](https://crbug.com/1072116)
 - [$N/A][[1085990](https://crbug.com/1085990)] High CVE-2020-6496: Use after free in payments. Reported by Khalil Zhani on 2020-05-24
 	- [Issue 1085990: Security: Browser_crash - heap-use-after-free in Payments API (chromium...@gmail.com)](https://crbug.com/1085990)
 - [$1500][[1069246](https://crbug.com/1069246)] Medium CVE-2020-6497: Insufficient policy enforcement in Omnibox. Reported by Rayyan Bijoora on 2020-04-08
@@ -196,7 +915,7 @@
 - [$7500][[1076708](https://crbug.com/1076708)] High CVE-2020-6468: Type Confusion in V8. Reported by Chris Salls and Jake Corina of Seaside Security, Chani Jindal of Shellphish on 2020-04-30
 	- [Issue 1076708: OOB read/write in v8::internal::ElementsAccessorBase\<v8::internal::FastHoleyDoubleElementsAccessor (chrissal...@gmail.com)](https://crbug.com/1076708)
 - [$5000][[1067382](https://crbug.com/1067382)] High CVE-2020-6469: Insufficient policy enforcement in developer tools. Reported by David Erceg on 2020-04-02
-	- [Issue 1067382 (Permission denied.)](https://crbug.com/1067382)
+	- [Issue 1067382: Security: Sandbox escape via chrome.input.ime (derce...@gmail.com)](https://crbug.com/1067382)
 - [$5000][[1065761](https://crbug.com/1065761)] Medium CVE-2020-6470: Insufficient validation of untrusted input in clipboard. Reported by Michał Bentkowski of Securitum on 2020-03-30
 	- [Issue 1065761 (Permission denied.)](https://crbug.com/1065761)
 - [$3000][[1059577](https://crbug.com/1059577)] Medium CVE-2020-6471: Insufficient policy enforcement in developer tools. Reported by David Erceg on 2020-03-08
